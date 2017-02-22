@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SUUS Manager</string>
+
+    <string name="boutonText1">Poids : </string>
+    <string name="editText1">Poids</string>
+    <string name="boutonText2">Taille : </string>
+    <string name="editText2">Taille</string>
+</resources>
