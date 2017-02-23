@@ -72,5 +72,19 @@
         android:id="@+id/videoView"
         />
 
+    <SeekBar
+        style="@style/Widget.AppCompat.SeekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:max="3000"
+        android:progress="1500"
+        android:layout_alignTop="@+id/horizontale"
+        android:layout_marginTop="53dp"
+        android:id="@+id/sliderVitesse"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
 
 </RelativeLayout>

@@ -7,6 +7,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.VideoView;
@@ -155,6 +156,9 @@ public class MainActivity extends AppCompatActivity {
         Button buttonRight= (Button) findViewById(R.id.right);
         Button buttonDown= (Button) findViewById(R.id.down);
         Button buttonDisconnect = (Button) findViewById(R.id.disconnect);
+        SeekBar sliderVitesse = (SeekBar) findViewById(R.id.sliderVitesse);
+
+
 
         VideoView videoView = (VideoView) findViewById(R.id.videoView);
 
@@ -169,6 +173,7 @@ public class MainActivity extends AppCompatActivity {
         actionThread.setButtonDown(buttonDown);
         actionThread.setButtonLeft(buttonLeft);
         actionThread.setButtonRight(buttonRight);
+        actionThread.setSliderVitesse(sliderVitesse);
 
         System.out.printf("Lapin");
 

@@ -3,6 +3,7 @@ package trailin.myfirstapplication;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.widget.Button;
+import android.widget.SeekBar;
 import android.widget.TextView;
 
 import java.io.DataOutputStream;
@@ -20,6 +21,8 @@ public class ActionThread extends Thread {
     Button buttonLeft = null;
     Button buttonRight = null;
     Button buttonDown = null;
+    SeekBar sliderVitesse=null;
+    int vitesseInt = 1500;
     Socket socket = null;
     String ip = null;
     Boolean bite = true;
@@ -61,7 +64,9 @@ public class ActionThread extends Thread {
         this.buttonUp = buttonUp;
     }
 
-
+    public void setSliderVitesse(SeekBar sliderVitesse) {
+        this.sliderVitesse = sliderVitesse;
+    }
 
     public void disconnect() {
         try {
@@ -93,7 +98,7 @@ public class ActionThread extends Thread {
 
 
             } else {
-                if (buttonDown == null || buttonLeft == null || buttonRight == null || buttonUp == null) {
+                if (buttonDown == null || buttonLeft == null || buttonRight == null || buttonUp == null || sliderVitesse == null) {
                     try {
                         sleep(1000);
                     } catch (InterruptedException e) {
@@ -101,6 +106,10 @@ public class ActionThread extends Thread {
                     }
                 } else {
 
+                    if (vitesseInt!=sliderVitesse.getProgress()) {
+                        vitesseInt=sliderVitesse.getProgress();
+                        send("sets " + vitesseInt);
+                    }
 
                     if ((!(buttonUp.isPressed() || buttonDown.isPressed())) || (buttonUp.isPressed() && buttonDown.isPressed())) {
                         if(verticaleInt > 9 && horizontaleInt <9) {

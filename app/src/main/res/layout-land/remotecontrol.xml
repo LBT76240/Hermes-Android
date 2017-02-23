@@ -54,7 +54,19 @@
         android:layout_below="@id/down"
         />
 
-
+    <SeekBar
+        style="@style/Widget.AppCompat.SeekBar"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:max="3000"
+        android:progress="1500"
+        android:layout_alignTop="@+id/horizontale"
+        android:layout_marginBottom="40dp"
+        android:id="@+id/sliderVitesse"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/videoView"
+        android:layout_toStartOf="@+id/videoView" />
     <Button
         android:id="@+id/disconnect"
         android:layout_width="wrap_content"
