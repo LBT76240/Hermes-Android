@@ -180,32 +180,16 @@ public class ActionThread extends Thread {
                             }
                         }
                     }   else if (buttonLeft.isPressed()) {
-                        if(horizontaleInt > 19 || horizontaleInt < 10) {
+                        if(horizontaleInt!=10) {
                             Log.d("", "Send Left");
                             send("sweepL");
                             horizontaleInt=10;
-                        }  else {
-                            if (horizontaleInt < 15) {
-                                horizontaleInt++;
-                            } else {
-                                Log.d("", "Send Left");
-                                send("sweepL");
-                                horizontaleInt = 10;
-                            }
                         }
                     } else if (buttonRight.isPressed()) {
-                        if(horizontaleInt < 20) {
+                        if(horizontaleInt !=20) {
                             Log.d("", "Send Right");
                             send("sweepR");
                             horizontaleInt=20;
-                        }  else {
-                            if (horizontaleInt < 25) {
-                                horizontaleInt++;
-                            } else {
-                                Log.d("", "Send Right");
-                                send("sweepR");
-                                horizontaleInt = 20;
-                            }
                         }
                     }
 

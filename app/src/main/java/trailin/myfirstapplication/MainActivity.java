@@ -32,17 +32,28 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Log.d("", "onCreate");
+        //Test Video
+        /*
         setContentView(R.layout.videolayout);
 
         SurfaceView surfaceView = (SurfaceView) findViewById(R.id.surfaceView);
         surfaceHolder = surfaceView.getHolder();
         surfaceHolder.addCallback(this);
         surfaceHolder.setFixedSize(320, 240);
+        */
 
 
+        //Debut programme
+        actionThread = mainThread.getActionThread();
 
-
-        //onStart();
+        if(actionThread == null) {
+            Log.d("", "No connected");
+            onDisconnected();
+        } else {
+            Log.d("", "Connected");
+            onConnected();
+        }
 
 
 
@@ -157,23 +168,39 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
 
 
     }
+
     /*
     @Override
     protected void onStart() {
         super.onStart();
+        Log.d("", "onStart");
         actionThread = mainThread.getActionThread();
 
         if(actionThread == null) {
+            Log.d("", "No connected");
             onDisconnected();
         } else {
+            Log.d("", "Connected");
             onConnected();
         }
 
     }
-
+    */
+    /*
     @Override
     protected void onStop() {
         super.onStop();
+        Log.d("", "On Stop");
+
+
+    }
+    */
+    //Attention le changement d'orientation fait appel à onDestroy
+    /*
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.d("", "onDestroy");
         if(mainThread.getActionThread()!=null) {
 
             actionThread.setBite(false);
@@ -182,19 +209,20 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
             mainThread.setActionThread(null);
 
         }
-
     }
-
+    */
+    /*
     @Override
     protected void onRestart() {
         super.onRestart();
+        Log.d("", "onRestart");
         onStart();
     }
-
     */
 
-    protected void onConnected() {
 
+    protected void onConnected() {
+        Log.d("", "onConnected");
         setContentView(R.layout.remotecontrol);
 
         Button buttonUp= (Button) findViewById(R.id.up);
@@ -205,12 +233,12 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
         SeekBar sliderVitesse = (SeekBar) findViewById(R.id.sliderVitesse);
 
 
-
+        /*
         VideoView videoView = (VideoView) findViewById(R.id.videoView);
 
         videoView.setVideoURI(Uri.parse("udp//@" + actionThread.getIp() +":56988/"));
         videoView.start();
-
+        */
 
         final TextView textViewV = (TextView) findViewById(R.id.vertical);
         final TextView textViewH = (TextView) findViewById(R.id.horizontale);
@@ -329,7 +357,7 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
 
 
     protected void onDisconnected() {
-
+        Log.d("", "onDisconnect");
         setContentView(R.layout.connect);
 
         Button connectButton = (Button) findViewById(R.id.connectButton);
