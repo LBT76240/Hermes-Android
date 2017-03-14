@@ -17,18 +17,21 @@ import android.widget.Toast;
 import android.widget.VideoView;
 import android.net.Uri;
 
+import org.janusproject.kernel.Kernel;
+
+import org.janusproject.kernel.agent.Agent;
+import org.janusproject.kernel.agent.Kernels;
+import org.janusproject.kernel.status.Status;
 
 import java.util.Map;
 
 import static android.widget.Toast.*;
 
-public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPreparedListener,SurfaceHolder.Callback {
+public class MainActivity extends AppCompatActivity {
 
     ActionThread actionThread= null;
     MainThread mainThread = MainThread.getInstance();
-    private static String RTSP_URL = "rtp://10.0.1.7:554/play1.sdp";
-    private static MediaPlayer mediaPlayer = new MediaPlayer();
-    private static SurfaceHolder surfaceHolder;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -44,7 +47,9 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
         */
 
 
+
         //Debut programme
+
         actionThread = mainThread.getActionThread();
 
         if(actionThread == null) {
@@ -54,116 +59,6 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
             Log.d("", "Connected");
             onConnected();
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        /* IMC
-        setContentView(R.layout.imc);
-
-        Button buttonCalcul = (Button) findViewById(R.id.calcul);
-        Button buttonRaz = (Button) findViewById(R.id.raz);
-
-
-
-        buttonRaz.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                EditText editPoids = (EditText) findViewById(R.id.poids);
-                editPoids.getText().clear();
-
-                EditText editTaille = (EditText) findViewById(R.id.taille);
-                editTaille.getText().clear();
-
-                CheckBox checkBox = (CheckBox) findViewById(R.id.mega);
-                checkBox.setChecked(false);
-
-                RadioButton radioButton = (RadioButton) findViewById(R.id.radio2);
-                radioButton.setChecked(true);
-
-            }
-        });
-
-        buttonCalcul.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-
-                CheckBox checkbox = (CheckBox) findViewById(R.id.mega);
-                if(checkbox.isChecked()) {
-                    Toast.makeText(MainActivity.this, megaString, Toast.LENGTH_SHORT).show();
-                } else {
-
-                    EditText editPoids = (EditText) findViewById(R.id.poids);
-
-
-                    float poids;
-                    String stringP = editPoids.getText().toString();
-                    if (!stringP.equals("")) {
-
-                        poids = Float.valueOf(stringP);
-
-                        if (poids > 0) {
-
-
-                            EditText editTaille = (EditText) findViewById(R.id.taille);
-
-
-                            float taille;
-                            String stringT = editTaille.getText().toString();
-                            if (!stringT.equals("")) {
-                                taille = Float.valueOf(stringT);
-
-                                if (taille > 0) {
-
-
-                                    RadioGroup radioGroup = (RadioGroup) findViewById(R.id.group);
-                                    int checkedRadioButtonId = radioGroup.getCheckedRadioButtonId();
-                                    if (checkedRadioButtonId == R.id.radio2) {
-                                        taille = taille / 100;
-                                    }
-
-                                    float result = poids / (taille * taille);
-
-                                    TextView resultView = (TextView) findViewById(R.id.result);
-                                    resultView.setText("Ton resultat est de " + result);
-                                } else {
-                                    error("Taille");
-                                }
-                            } else {
-                                error("Taille");
-                            }
-
-                        } else {
-                            error("Poids");
-                        }
-
-                    } else {
-                        error("Poids");
-                    }
-                }
-
-            }
-        });
-
-        */
 
 
 
@@ -416,7 +311,7 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
         makeText(MainActivity.this, "Mauvaise valeur de : " + string, LENGTH_SHORT).show();
     }
 
-
+    /*
     @Override
     public void onPrepared(MediaPlayer mp) {
         mediaPlayer.start();
@@ -439,7 +334,6 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
         try {
             // Specify the IP camera's URL and auth headers.
             mediaPlayer.setDataSource(context, source);
-
             // Begin the process of setting up a video stream.
             mediaPlayer.setOnPreparedListener(this);
             mediaPlayer.prepareAsync();
@@ -452,5 +346,5 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
         mediaPlayer.release();
     }
 
-
+    */
 }

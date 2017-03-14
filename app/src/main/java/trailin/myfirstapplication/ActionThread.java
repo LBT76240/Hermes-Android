@@ -84,6 +84,7 @@ public class ActionThread extends Thread {
                     socket = new Socket(ip, 56987);
                     wait=false;
                     oos = new DataOutputStream(socket.getOutputStream());
+                    send("Motor Deamon");
                     send("sets 1500");
 
 

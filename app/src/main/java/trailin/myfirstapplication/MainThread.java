@@ -13,10 +13,19 @@ public class MainThread extends Thread {
 
     private ActionThread actionThread = null;
 
+    private String menu = null;
+
     private MainThread () {
 
     }
 
+    public String getMenu() {
+        return menu;
+    }
+
+    public void setMenu(String menu) {
+        this.menu = menu;
+    }
 
     public ActionThread getActionThread() {
         return actionThread;
