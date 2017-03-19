@@ -2,5 +2,118 @@
 <resources>
     <string name="app_name">Hermes Remote</string>
 
+    <string name="max_people">20</string>
+
+    <string-array name="people_array">
+
+        <item >"Claude VILLARD"</item>
+        <item >"Directeur des formations"</item>
+        <item >"DIR 203"</item>
+
+
+
+
+        <item >"Claire LECOCQ"</item>
+        <item >"Directeur d'études"</item>
+        <item >"DIR 215"</item>
+
+
+
+        <item >"Claire PETITMENGIN"</item>
+        <item >"Professeur"</item>
+        <item >"F 112"</item>
+
+
+
+        <item >"Claire THIERRY"</item>
+        <item >"Déléguée générale"</item>
+        <item >"DIR 117"</item>
+
+
+
+        <item >"Alain LEBEGUE"</item>
+        <item >"Directeur d'Etudes"</item>
+        <item >"C 407"</item>
+
+
+
+        <item >"Thierry TAILLANDIER-LOIZE"</item>
+        <item >"Chargé d'enseignement et de recherche"</item>
+        <item >"C 408"</item>
+
+        <item>"Alexandre VERVISCH-PICOIS"</item>
+        <item>"Maître de conférences"</item>
+        <item>"C 402"</item>
+
+        <item>"Idir Ghalid ABIB"</item>
+        <item>"maître de conférence"</item>
+        <item>"A 301-0"</item>
+
+        <item>"Jerome BOUDY"</item>
+        <item >"Professeur"</item>
+        <item >"C 303"</item>
+
+        <item >"Mounim A. EL_YACOUBI"</item>
+        <item >"Directeur d'études"</item>
+        <item >"C 410"</item>
+
+        <item>"Yann FRIGNAC"</item>
+        <item >"Maître de Conférences"</item>
+        <item >"C 306"</item>
+
+        <item>"Sonia GARCIA"</item>
+        <item>"Professeur"</item>
+        <item>"C 306"</item>
+
+        <item>"Yaneck GOTTESMAN"</item>
+        <item>"Maitre de Conférences"</item>
+        <item>"B 211"</item>
+
+        <item>"Mohamed HMANI"</item>
+        <item>"Ingénieur de recherche"</item>
+        <item>"2039"</item>
+
+        <item>"Patrick HORAIN"</item>
+        <item>"Ingénieur d'études"</item>
+        <item>"C 304-00"</item>
+
+        <item>"Nesma HOUMANI"</item>
+        <item>"Maître de conférences"</item>
+        <item>"C 406"</item>
+
+        <item>"Regine LEMONTAGNER"</item>
+        <item>"Chargé d'enseignement et de recherche"</item>
+        <item>"B 211"</item>
+
+        <item>"Catherine LEPERS"</item>
+        <item>"Professeur"</item>
+        <item>"B 201"</item>
+
+        <item>"Olivier MEULLE"</item>
+        <item>"Technicien Informatique"</item>
+        <item>"A 104-02"</item>
+
+        <item>"Daniel RANC"</item>
+        <item>"Ingénieur d'études"</item>
+        <item>"C 107"</item>
+
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </resources>

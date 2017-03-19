@@ -1,5 +1,7 @@
 package trailin.myfirstapplication;
 
+import android.content.res.Resources;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -8,10 +10,13 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
+import java.util.ArrayList;
+import java.util.List;
 
 import static android.widget.Toast.LENGTH_SHORT;
 import static android.widget.Toast.makeText;
@@ -21,6 +26,8 @@ import static android.widget.Toast.makeText;
  */
 
 public class TabletActivity extends AppCompatActivity {
+
+
 
     ActionThread actionThread= null;
     MainThread mainThread = MainThread.getInstance();
@@ -101,6 +108,8 @@ public class TabletActivity extends AppCompatActivity {
         });
 
 
+
+
     }
 
     private void onPersonne() {
@@ -117,23 +126,54 @@ public class TabletActivity extends AppCompatActivity {
             }
         });
 
-        String[] prenoms = new String[]{
-                "Antoine", "Benoit", "Cyril", "David", "Eloise", "Florent",
-                "Gerard", "Hugo", "Ingrid", "Jonathan", "Kevin", "Logan",
-                "Mathieu", "Noemie", "Olivia", "Philippe", "Quentin", "Romain",
-                "Sophie", "Tristan", "Ulric", "Vincent", "Willy", "Xavier",
-                "Yann", "Zoé"
-        };
 
         ListView listView = (ListView) findViewById(R.id.listView);
 
-        //android.R.layout.simple_list_item_1 est une vue disponible de base dans le SDK android,
-        //Contenant une TextView avec comme identifiant "@android:id/text1"
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(TabletActivity.this,
-                android.R.layout.simple_list_item_1, prenoms);
+        List<People> peoples = recupererPeople();;
+
+        PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoples);
         listView.setAdapter(adapter);
 
+    }
+
+    private List<People> recupererPeople() {
+        List<People> peoples = new ArrayList<People>();
+
+        Resources r = this.getResources();
+
+        String [] strings = r.getStringArray(R.array.people_array);
+
+        int maxPeople = (strings.length)/3;
+
+        for(int i = 0;i<maxPeople;i++) {
+
+            String nom=strings[i*3+0];
+            String job=strings[i*3+1];
+            String salle=strings[i*3+2];
+
+            String resDrawable = "";
+
+            if(i<10) {
+                resDrawable = "p00"+i;
+            } else if (i<100) {
+                resDrawable = "p0"+i;
+            } else {
+                resDrawable = "p"+i;
+            }
+
+
+            int drawableResourceId = this.getResources().getIdentifier(resDrawable, "drawable", this.getPackageName());
+            peoples.add(new People(drawableResourceId,nom,job,salle));
+        }
+
+
+
+
+
+
+
+        return peoples;
     }
 
     private void onSalle() {
