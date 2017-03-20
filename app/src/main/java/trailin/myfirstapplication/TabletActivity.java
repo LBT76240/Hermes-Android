@@ -127,15 +127,66 @@ public class TabletActivity extends AppCompatActivity {
         });
 
 
-        ListView listView = (ListView) findViewById(R.id.listView);
+        final ListView listView = (ListView) findViewById(R.id.listView);
 
 
-        List<People> peoples = recupererPeople();;
+        final List<People> peoples = recupererPeople();;
 
-        PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoples);
+        final PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoples);
         listView.setAdapter(adapter);
 
+
+        final Button buttonRecherche= (Button) findViewById(R.id.buttonRecherche);
+        final EditText editText = (EditText) findViewById(R.id.editText);
+
+        buttonRecherche.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String name = editText.getText().toString();
+                name = name.toLowerCase();
+
+                List<People> peoplesSearch = recupererPeople(name,peoples);
+
+                PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoplesSearch);
+                listView.setAdapter(adapter);
+
+            }
+        });
+
+        Button buttonReset = (Button) findViewById(R.id.buttonReset);
+
+        buttonReset.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                editText.setText("");
+                listView.setAdapter(adapter);
+
+            }
+        });
+
     }
+
+    private List<People> recupererPeople(String name, List<People> peoples) {
+        List<People> peoplesSearch = new ArrayList<People>();
+
+        int maxPeople = peoples.size();
+
+        for(int i = 0; i<maxPeople;i++) {
+            People people = peoples.get(i);
+            String peopleName = people.getNom();
+            peopleName = peopleName.toLowerCase();
+
+            if(peopleName.contains(name)) {
+                peoplesSearch.add(people);
+            }
+        }
+
+
+        return peoplesSearch;
+    }
+
+
 
     private List<People> recupererPeople() {
         List<People> peoples = new ArrayList<People>();
@@ -144,23 +195,17 @@ public class TabletActivity extends AppCompatActivity {
 
         String [] strings = r.getStringArray(R.array.people_array);
 
-        int maxPeople = (strings.length)/3;
+        int maxPeople = (strings.length)/4;
 
         for(int i = 0;i<maxPeople;i++) {
 
-            String nom=strings[i*3+0];
-            String job=strings[i*3+1];
-            String salle=strings[i*3+2];
+            String nom=strings[i*4+0];
+            String job=strings[i*4+1];
+            String salle=strings[i*4+2];
 
-            String resDrawable = "";
+            String resDrawable = strings[i*4+3];
 
-            if(i<10) {
-                resDrawable = "p00"+i;
-            } else if (i<100) {
-                resDrawable = "p0"+i;
-            } else {
-                resDrawable = "p"+i;
-            }
+
 
 
             int drawableResourceId = this.getResources().getIdentifier(resDrawable, "drawable", this.getPackageName());
