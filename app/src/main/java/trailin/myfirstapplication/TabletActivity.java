@@ -5,8 +5,10 @@ import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.WindowInsets;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
@@ -235,21 +237,71 @@ public class TabletActivity extends AppCompatActivity {
             }
         });
 
-        EditText editText = (EditText) findViewById(R.id.editText);
-        editText.setText("Tapez le numéro de salle ici");
 
-        String[] prenoms = new String[]{
-                "Amphi 10", "Amphi 11", "B101" , "B102", "B103", "B104", "B105", "B106", "B107", "B108"
+
+        final String[] salles = new String[]{
+                "Amphi 10", "Amphi 11","A 101" , "A 102", "A 103", "A 104", "A 105", "A 106", "A 107", "A 108", "B 101" , "B 102", "B 103", "B 104", "B 105", "B 106", "B 107", "B 108"
         };
 
-        ListView listView = (ListView) findViewById(R.id.listView);
+        final ListView listView = (ListView) findViewById(R.id.listView);
 
         //android.R.layout.simple_list_item_1 est une vue disponible de base dans le SDK android,
         //Contenant une TextView avec comme identifiant "@android:id/text1"
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(TabletActivity.this,
-                android.R.layout.simple_list_item_1, prenoms);
+        final ArrayAdapter<String> adapter = new ArrayAdapter<String>(TabletActivity.this,
+                android.R.layout.simple_list_item_1, salles);
         listView.setAdapter(adapter);
+
+        final Button buttonRecherche= (Button) findViewById(R.id.buttonRecherche);
+        final EditText editText = (EditText) findViewById(R.id.editText);
+        editText.setHint("Taper le nom de la Salle ici");
+
+
+
+        buttonRecherche.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String salle = editText.getText().toString();
+                salle = salle.toLowerCase();
+
+
+
+                ArrayList<String> sallesSearch = new ArrayList<String>();
+
+                int maxSalle = salles.length;
+
+                for(int i = 0;i<maxSalle;i++) {
+                    String room = salles[i];
+                    room = room.toLowerCase();
+
+                    if(room.contains(salle)) {
+                        sallesSearch.add(salles[i]);
+                    }
+
+                }
+
+
+
+
+                ArrayAdapter<String> adapter = new ArrayAdapter<String>(TabletActivity.this,
+                        android.R.layout.simple_list_item_1, sallesSearch);
+                listView.setAdapter(adapter);
+
+
+            }
+        });
+
+        Button buttonReset = (Button) findViewById(R.id.buttonReset);
+
+        buttonReset.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                editText.setText("");
+                listView.setAdapter(adapter);
+
+            }
+        });
 
     }
 
