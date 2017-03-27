@@ -1470,50 +1470,6 @@ Denis LESCOP
 Maître de Conférences
  E    06 
 http://trombi.tem-tsp.eu/photo.php?uid=lescop_d&amp;h=320&amp;w=240
-Thierry TAILLANDIER-LOIZE
-Chargé d'enseignement et de recherche
- C    408 
-http://trombi.tem-tsp.eu/photo.php?uid=tailland&amp;h=320&amp;w=240
-Ruxandra TAPU
-post-doctorante
- A    201-02 
-http://trombi.tem-tsp.eu/photo.php?uid=tapu_rux&amp;h=320&amp;w=240
-Sabine TARDY
-Assistante
- DIR    217 
-http://trombi.tem-tsp.eu/photo.php?uid=tardy&amp;h=320&amp;w=240
-Richard TAYLOR
-Chargé d'Enseignement
- E 202 
-http://trombi.tem-tsp.eu/photo.php?uid=taylor&amp;h=320&amp;w=240
-Donia TRABELSI
-Maître de Conférences
- E    210 
-http://trombi.tem-tsp.eu/photo.php?uid=trabel_d&amp;h=320&amp;w=240
-Pauline VANDENHENDE
-Responsable de la promotion des formations executives
- DIR    119 
-http://trombi.tem-tsp.eu/photo.php?uid=vandenhe&amp;h=320&amp;w=240
-Alexandre VERVISCH-PICOIS
-Maître de conférences
- C    402 
-http://trombi.tem-tsp.eu/photo.php?uid=vervisch&amp;h=320&amp;w=240
-Claude VILLARD
-Directeur des formations
- DIR 203 
-http://trombi.tem-tsp.eu/photo.php?uid=villard&amp;h=320&amp;w=240
-Djamal ZEGHLACHE
-Directeur du Département RS2M
- A 104-01 
-http://trombi.tem-tsp.eu/photo.php?uid=zeghlach&amp;h=320&amp;w=240
-Zahia ZENDAGUI
-Assistante gestionnaire pour le laboratoire Samovar UMR 5157 Telecom SudParis
- D 106 
-http://trombi.tem-tsp.eu/photo.php?uid=zendag_z&amp;h=320&amp;w=240
-Daqing ZHANG
-Directeur d'études
- D 402-01 
-http://trombi.tem-tsp.eu/photo.php?uid=zhang_da&amp;h=320&amp;w=240
 Monique BECKER
 Professeur du Département RST
  D    401 
@@ -1542,22 +1498,6 @@ Noel CRESPI
 Directeur d'Etudes
  D 107 
 http://trombi.tem-tsp.eu/photo.php?uid=crespi&amp;h=320&amp;w=240
-Frederic CURMIN
-Chef de projet - Assistance à maîtrise d'ouvrage
- D 08 
-http://trombi.tem-tsp.eu/photo.php?uid=curmin&amp;h=320&amp;w=240
-Juwendo DENIS
-Ingénieur de recherche
- F    121 
-http://trombi.tem-tsp.eu/photo.php?uid=juwend_d&amp;h=320&amp;w=240
-Christophe DIGNE
-Directeur de Télécom SudParis
- DIR    204 
-http://trombi.tem-tsp.eu/photo.php?uid=digne_ch&amp;h=320&amp;w=240
-Christelle DONCHERY
-chargée de gestion
- E    115 
-http://trombi.tem-tsp.eu/photo.php?uid=donchery&amp;h=320&amp;w=240
 Joelle ELLIOT
 Responsable du Career Center et des stages
  A 07-01 
@@ -1670,143 +1610,15 @@ Qin ZOU
 Maitre de conférences
  B 201 
 http://trombi.tem-tsp.eu/photo.php?uid=zou&amp;h=320&amp;w=240
-Joelle ELLIOT
-Responsable du Career Center et des stages
- A 07-01 
-http://trombi.tem-tsp.eu/photo.php?uid=elliot&amp;h=320&amp;w=240
-Olivier EPINETTE
-Directeur des Formations et de la Pédagogie
- DIR 116 
-http://trombi.tem-tsp.eu/photo.php?uid=epinette&amp;h=320&amp;w=240
-Christine FIXOT
-Assistante de direction
- MAISEL  
-http://trombi.tem-tsp.eu/photo.php?uid=giordani&amp;h=320&amp;w=240
-Veronique GUY
-Chargée de gestion recherche et formation doctorale
- DIR    220 
-http://trombi.tem-tsp.eu/photo.php?uid=guy&amp;h=320&amp;w=240
-Sylvie GUYON
-Directrice des programmes Executive Education
- DIR    109 
-http://trombi.tem-tsp.eu/photo.php?uid=guyon_s&amp;h=320&amp;w=240
-Christine JOST
-Documentaliste
- BL    09-02 
-http://trombi.tem-tsp.eu/photo.php?uid=jost_chr&amp;h=320&amp;w=240
-Christophe KIENNERT
-Ingénieur de recherche et développement
- A    104-02 
-http://trombi.tem-tsp.eu/photo.php?uid=kiennert&amp;h=320&amp;w=240
-Josephine KOHLENBERG
-Ingénieur d'études
- C    102 
-http://trombi.tem-tsp.eu/photo.php?uid=kohlenb&amp;h=320&amp;w=240
-Corinne LE ROUX
-Directrice des Ressources Documentaires
- BL 09-01 
-http://trombi.tem-tsp.eu/photo.php?uid=le_roux&amp;h=320&amp;w=240
-Olivier LEROY
-Ingénieur Systèmes
- B 001 
-http://trombi.tem-tsp.eu/photo.php?uid=leroy&amp;h=320&amp;w=240
-Christine LETROU
-Professeur
- B 207 
-http://trombi.tem-tsp.eu/photo.php?uid=letrou&amp;h=320&amp;w=240
-Olivier MEULLE
-Technicien Informatique
- A    104-02 
-http://trombi.tem-tsp.eu/photo.php?uid=meulle_o&amp;h=320&amp;w=240
-Bruno MEURISSE
-Responsable programmes formation professionnelle
- DIR    210 
-http://trombi.tem-tsp.eu/photo.php?uid=meuris_b&amp;h=320&amp;w=240
 Jose NETO
 Maître de conférences
  D    04 
 http://trombi.tem-tsp.eu/photo.php?uid=neto_jos&amp;h=320&amp;w=240
-Eric NIGEON
-Agent de gestion
- G    03 
-http://trombi.tem-tsp.eu/photo.php?uid=nigeon&amp;h=320&amp;w=240
-Wojciech PIECZYNSKI
-Directeur du département CITI
- D 205-01 
-http://trombi.tem-tsp.eu/photo.php?uid=pieczyn&amp;h=320&amp;w=240
-Quentin RENOUL
-Attaché de presse
- DIR    119 
-http://trombi.tem-tsp.eu/photo.php?uid=renoul_q&amp;h=320&amp;w=240
-Pierre-Olivier ROCHER
-Ingénieur de recherche
- C 208 
-http://trombi.tem-tsp.eu/photo.php?uid=rocher_p&amp;h=320&amp;w=240
-Veronique ROJO
-Ingénieur développement
- D 07 
-http://trombi.tem-tsp.eu/photo.php?uid=rojo_ver&amp;h=320&amp;w=240
-Simone RONJON
-Chargée du bureau des carrières
- AMPHI    04-01 (FORUM  ) 
-http://trombi.tem-tsp.eu/photo.php?uid=ronjon_s&amp;h=320&amp;w=240
-Zheng-Shi SONG
-Chargé d'Enseignement-Recherche
- E    07 
-http://trombi.tem-tsp.eu/photo.php?uid=song&amp;h=320&amp;w=240
-Severine TROTOU
-Gestionnaire pôle recettes
- F    033 
-http://trombi.tem-tsp.eu/photo.php?uid=trotou&amp;h=320&amp;w=240
-Corinne TRUCHE
-Ingénieur d'études
- D 103 
-http://trombi.tem-tsp.eu/photo.php?uid=truche&amp;h=320&amp;w=240
-Nicole VIZET
-Coordinatrice Erasmus
- A 07 
-http://trombi.tem-tsp.eu/photo.php?uid=vizet_ni&amp;h=320&amp;w=240
 Robert VOYER
 Maître de Conférences
  F    107 
 http://trombi.tem-tsp.eu/photo.php?uid=voyer&amp;h=320&amp;w=240
-Qin ZOU
-Maitre de conférences
- B 201 
-http://trombi.tem-tsp.eu/photo.php?uid=zou&amp;h=320&amp;w=240
-Veronique GUY
-Chargée de gestion recherche et formation doctorale
- DIR    220 
-http://trombi.tem-tsp.eu/photo.php?uid=guy&amp;h=320&amp;w=240
-Sylvie GUYON
-Directrice des programmes Executive Education
- DIR    109 
-http://trombi.tem-tsp.eu/photo.php?uid=guyon_s&amp;h=320&amp;w=240
-Corinne LE ROUX
-Directrice des Ressources Documentaires
- BL 09-01 
-http://trombi.tem-tsp.eu/photo.php?uid=le_roux&amp;h=320&amp;w=240
-Gwilherm LEBRUN
-Ingénieur Systèmes et Audiovisuel
- B 002 
-http://trombi.tem-tsp.eu/photo.php?uid=lebrun&amp;h=320&amp;w=240
 Luc LECLERE
 Responsable de la formation d'ingénieur par l'apprentissage
  D    201   /  DIR 210 
 http://trombi.tem-tsp.eu/photo.php?uid=leclere&amp;h=320&amp;w=240
-Christine LETROU
-Professeur
- B 207 
-http://trombi.tem-tsp.eu/photo.php?uid=letrou&amp;h=320&amp;w=240
-Olivier MEULLE
-Technicien Informatique
- A    104-02 
-http://trombi.tem-tsp.eu/photo.php?uid=meulle_o&amp;h=320&amp;w=240
-Bruno MEURISSE
-Responsable programmes formation professionnelle
- DIR    210 
-http://trombi.tem-tsp.eu/photo.php?uid=meuris_b&amp;h=320&amp;w=240
-Muriel MULLER
-Maître de conférences
- A 301-0 
-http://trombi.tem-tsp.eu/photo.php?uid=muller&amp;h=320&amp;w=240

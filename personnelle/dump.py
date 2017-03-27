@@ -14,8 +14,8 @@ for j in range(6):
         lettre = 'Y'
     
     
-    adressein = 'D:\\Git\\Android\\Hermes-Android\\personnelle\\'+lettre+'.txt'
-    adresseout = 'D:\\Git\\Android\\Hermes-Android\\personnelle\\'+lettre+'_data.txt'
+    adressein = 'D:\\Android\\MyFirstApplication\\personnelle\\'+lettre+'.txt'
+    adresseout = 'D:\\Android\\MyFirstApplication\\personnelle\\'+lettre+'_data.txt'
     
     print(adressein)
     
@@ -83,8 +83,9 @@ for j in range(6):
     fichier_in.close()
     
 
-adresseout = 'D:\\Git\\Android\\Hermes-Android\\personnelle\\data_raw.txt'
+adresseout = 'D:\\Android\\MyFirstApplication\\personnelle\\data_raw.txt'
 fichier_out = open (adresseout,'w')
+fichier_out.close()
 
 
 for j in range(6):
@@ -103,7 +104,7 @@ for j in range(6):
         lettre = 'Y'
     
     
-    adressein = 'D:\\Git\\Android\\Hermes-Android\\personnelle\\'+lettre+'_data.txt'
+    adressein = 'D:\\Android\\MyFirstApplication\\personnelle\\'+lettre+'_data.txt'
     
     
     print(adressein)
@@ -135,18 +136,29 @@ for j in range(6):
             
             bool = True
             
-            fichier_chek = open(adresseout,'r')
+            fichier_chek = open(adresseout,'r+')
+            
+            
+           
             
             for K in fichier_chek :
-                if(nom==K):
+                
+                if (nom==K):
                     bool = False
             
-            fichier_chek.close()
+            
+            
+            
+            
             if(bool and nom!=0 and job !=0 and salle !=0 and photo !=0) :
-                fichier_out.write(nom)
-                fichier_out.write(job)
-                fichier_out.write(salle)
-                fichier_out.write(photo)
+                fichier_chek.write(nom)
+                fichier_chek.write(job)
+                fichier_chek.write(salle)
+                fichier_chek.write(photo)
+                
+                
+            fichier_chek.close()
+                
         
             nom = 0
             job = 0
@@ -158,13 +170,13 @@ for j in range(6):
     fichier_in.close()
 
 
-fichier_out.close()
+
 
 import urllib.request
 
-adresseout = 'D:\\Git\\Android\\Hermes-Android\\personnelle\\data_string.txt'
+adresseout = 'D:\\Android\\MyFirstApplication\\personnelle\\data_string.txt'
 fichier_out = open (adresseout,'w')
-adressein = 'D:\\Git\\Android\\Hermes-Android\\personnelle\\data_raw.txt'
+adressein = 'D:\\Android\\MyFirstApplication\\personnelle\\data_raw.txt'
 fichier_in = open (adressein,'r')
 print(adressein)
 n=0
@@ -181,14 +193,16 @@ for L in fichier_in :
         n=n+1
         nstring=str(n)
         fichier_out.write("<item >\"")
+        fichier_out.write('p')
         fichier_out.write(nstring)
         fichier_out.write("\"</item>\n\n")
         
         
         
-        imageout = 'D:\\Git\\Android\\Hermes-Android\\personnelle\\photo\\'+nstring+'.jpg'
+        imageout = 'D:\\Android\\MyFirstApplication\\personnelle\\photo\\'+'p' +nstring+'.jpg'
         
         print(imageout)
+        
         urllib.request.urlretrieve (out[0], imageout)
         
 
