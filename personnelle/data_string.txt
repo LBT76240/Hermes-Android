@@ -1,0 +1,2265 @@
+<item >"Francoise ABAD"</item>
+<item >"Assistante de gestion"</item>
+<item >" D 102 "</item>
+<item >"1"</item>
+
+<item >"Idir Ghalid ABIB"</item>
+<item >"maître de conférence"</item>
+<item >" A 301-0 "</item>
+<item >"2"</item>
+
+<item >"Zoelie ADAM-MAURIZIO"</item>
+<item >"Chargée de communication"</item>
+<item >" DIR    211 "</item>
+<item >"3"</item>
+
+<item >"Hossam AFIFI"</item>
+<item >"Professeur"</item>
+<item >"  44 "</item>
+<item >"4"</item>
+
+<item >"Abderrahim AIT-WAKRIME"</item>
+<item >"post-doctorant"</item>
+<item >" B    306 "</item>
+<item >"5"</item>
+
+<item >"Brahim AKABTANI"</item>
+<item >"Agent logistique"</item>
+<item >" G    04 "</item>
+<item >"6"</item>
+
+<item >"Jacky AKOKA"</item>
+<item >"Professeur"</item>
+<item >" F    102 "</item>
+<item >"7"</item>
+
+<item >"Erick AMANN"</item>
+<item >"Technicien Réseaux"</item>
+<item >" B 001-02 "</item>
+<item >"8"</item>
+
+<item >"Denise AMANN"</item>
+<item >"Responsable scolarité TEM"</item>
+<item >" DIR 110 "</item>
+<item >"9"</item>
+
+<item >"Chantal AMMI"</item>
+<item >"Professeur"</item>
+<item >" E 410 "</item>
+<item >"10"</item>
+
+<item >"Anais APRILE"</item>
+<item >"Ingénieur développement"</item>
+<item >" D 06 "</item>
+<item >"11"</item>
+
+<item >"Marc ARAMA"</item>
+<item >"Infographiste"</item>
+<item >" G    02 "</item>
+<item >"12"</item>
+
+<item >"Rafik ARIBI"</item>
+<item >"Directeur des Affaires Financières"</item>
+<item >" F    042-01 "</item>
+<item >"13"</item>
+
+<item >"Said ASSAR"</item>
+<item >"Maître de Conférences"</item>
+<item >" F    108 "</item>
+<item >"14"</item>
+
+<item >"Fanny ASTGEN"</item>
+<item >"Ingénieur systèmes"</item>
+<item >" B 001 "</item>
+<item >"15"</item>
+
+<item >"Tulin ATMACA"</item>
+<item >"Professeur"</item>
+<item >" C 108 "</item>
+<item >"16"</item>
+
+<item >"Yolande AUBINEAU"</item>
+<item >"Assistante"</item>
+<item >" E 413 "</item>
+<item >"17"</item>
+
+<item >"Patrice AUBRY"</item>
+<item >"Chargé d'enseignement et de recherche"</item>
+<item >" A 101 "</item>
+<item >"18"</item>
+
+<item >"Brigitte AUROUSSEAU"</item>
+<item >"Documentaliste"</item>
+<item >" BL    09 "</item>
+<item >"19"</item>
+
+<item >"Christian BAC"</item>
+<item >"Directeur d'études"</item>
+<item >" C    103 "</item>
+<item >"20"</item>
+
+<item >"Lorea BAIADA-HIRECHE"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    312 "</item>
+<item >"21"</item>
+
+<item >"Christine BALAGUE"</item>
+<item >"Professeur"</item>
+<item >" E    302 "</item>
+<item >"22"</item>
+
+<item >"Emmanuel BAUDOIN"</item>
+<item >"Ingénieur d'Etudes"</item>
+<item >" E    411 "</item>
+<item >"23"</item>
+
+<item >"Flavien BAZENET"</item>
+<item >"Chargé d'Enseignement-Recherche"</item>
+<item >" E    411 "</item>
+<item >"24"</item>
+
+<item >"Philippe BEAULIEU"</item>
+<item >"Directeur de la MAISEL"</item>
+<item >" MAISEL  "</item>
+<item >"25"</item>
+
+<item >"Stephane BEGOM"</item>
+<item >"Agent d'intervention"</item>
+<item >" DIR    027 "</item>
+<item >"26"</item>
+
+<item >"Yosra BEJAR"</item>
+<item >"Maitre de conférences"</item>
+<item >" E 215 "</item>
+<item >"27"</item>
+
+<item >"Djamel BELAID"</item>
+<item >"Directeur d'études"</item>
+<item >" D    301 "</item>
+<item >"28"</item>
+
+<item >"Sadia BELAYACHI"</item>
+<item >"Responsable Management des Ressources Humaines"</item>
+<item >" DIR 012 "</item>
+<item >"29"</item>
+
+<item >"Myriam BENABID"</item>
+<item >"Responsable du Programme Bachelor"</item>
+<item >" DIR    104 "</item>
+<item >"30"</item>
+
+<item >"Walid BENAMEUR"</item>
+<item >"Professeur"</item>
+<item >" D 402-01 "</item>
+<item >"31"</item>
+
+<item >"Badr-Eddine BENKELFAT"</item>
+<item >"Directeur du département EPH"</item>
+<item >" A 312 "</item>
+<item >"32"</item>
+
+<item >"Fabrice BERNARD"</item>
+<item >"Responsable sécurité"</item>
+<item >" DIR    023 "</item>
+<item >"33"</item>
+
+<item >"Laurent BERNARD"</item>
+<item >"Directeur d'études"</item>
+<item >" D 403 "</item>
+<item >"34"</item>
+
+<item >"Lucile BERTAUX"</item>
+<item >"Chargée d'Enseignement"</item>
+<item >" E 09 "</item>
+<item >"35"</item>
+
+<item >"Madeleine BESSON"</item>
+<item >"Directrice de la Recherche et des Formations Doctorales"</item>
+<item >" E 314 "</item>
+<item >"36"</item>
+
+<item >"Alexandra BEUCLER"</item>
+<item >"Coordinatrice"</item>
+<item >" C    308 "</item>
+<item >"37"</item>
+
+<item >"Marie BIA FIGUEIREDO"</item>
+<item >"Maître de Conférences"</item>
+<item >" F    103 "</item>
+<item >"38"</item>
+
+<item >"Gregory BLANC"</item>
+<item >"Maitre de conférences"</item>
+<item >" D 101-01 "</item>
+<item >"39"</item>
+
+<item >"Franck BODO"</item>
+<item >"Technicien polyvalent"</item>
+<item >" D 002 "</item>
+<item >"40"</item>
+
+<item >"Caroline BOMBART"</item>
+<item >"Assistante Administrative et de Gestion"</item>
+<item >" G    05 "</item>
+<item >"41"</item>
+
+<item >"Fatima BOUCHELAGHEM"</item>
+<item >"Assistante Secrétariat Général, projets immobiliers, service sécurité"</item>
+<item >" BL    001 "</item>
+<item >"42"</item>
+
+<item >"Imed BOUGHZALA"</item>
+<item >"Professeur"</item>
+<item >" F 104 "</item>
+<item >"43"</item>
+
+<item >"Fabrice BOUILLAND CHAUVEAU"</item>
+<item >"Coordinateur de travaux"</item>
+<item >" BL    001-01 "</item>
+<item >"44"</item>
+
+<item >"Sylvie BOURDARIAS"</item>
+<item >"Webmestre"</item>
+<item >" C 05 "</item>
+<item >"45"</item>
+
+<item >"Vincent BOURDEAU"</item>
+<item >"Agent logistique"</item>
+<item >" G    04 "</item>
+<item >"46"</item>
+
+<item >"Sandrine BOURGUER"</item>
+<item >"Responsable de la communication"</item>
+<item >" DIR    211 "</item>
+<item >"47"</item>
+
+<item >"Guenaelle BOUYER"</item>
+<item >"Chargée de Gestion"</item>
+<item >" DIR    217 "</item>
+<item >"48"</item>
+
+<item >"Amel BOUZEGHOUB"</item>
+<item >"Professeur"</item>
+<item >" D 309 "</item>
+<item >"49"</item>
+
+<item >"Cecile BRIANT"</item>
+<item >"Chargée de communication"</item>
+<item >" DIR    211 "</item>
+<item >"50"</item>
+
+<item >"Manon BRIERE"</item>
+<item >"Apprentie"</item>
+<item >" DIR    106 "</item>
+<item >"51"</item>
+
+<item >"Baya BRIKH"</item>
+<item >"Gestionnaire pôle recettes"</item>
+<item >" F    033 "</item>
+<item >"52"</item>
+
+<item >"Jean-Maurice BRUNEAU"</item>
+<item >"Ingénieur d'Etudes"</item>
+<item >" F    106 "</item>
+<item >"53"</item>
+
+<item >"Elisabeth BRUNET"</item>
+<item >"Maître de conférences"</item>
+<item >" B 304 "</item>
+<item >"54"</item>
+
+<item >"Stephanie BUFFET"</item>
+<item >"Technicienne micro informatique"</item>
+<item >" B 001 "</item>
+<item >"55"</item>
+
+<item >"Anne-Laure BUHOT"</item>
+<item >"Chargée de scolarité et Admissions Programme Bachelor"</item>
+<item >" DIR    110 "</item>
+<item >"56"</item>
+
+<item >"Christiane BULFAY"</item>
+<item >"Assistante RH"</item>
+<item >" DIR 010 "</item>
+<item >"57"</item>
+
+<item >"Christian CAMILLERI"</item>
+<item >"Responsable du service vie scolaire"</item>
+<item >" DIR 06 "</item>
+<item >"58"</item>
+
+<item >"Badria CAMPENON"</item>
+<item >"Assistante de Direction"</item>
+<item >" DIR    205 "</item>
+<item >"59"</item>
+
+<item >"Damien CANIVEZ"</item>
+<item >"Responsable Audiovisuel"</item>
+<item >" B 002 "</item>
+<item >"60"</item>
+
+<item >"Marie CARPENTER"</item>
+<item >"Maître de Conférences"</item>
+<item >" E 414 "</item>
+<item >"61"</item>
+
+<item >"Shirley CARTER-THOMAS"</item>
+<item >"Professeur"</item>
+<item >" E 107 "</item>
+<item >"62"</item>
+
+<item >"Ruben CARVAJAL"</item>
+<item >"Ingénieur pédagogique"</item>
+<item >" C 07-01 "</item>
+<item >"63"</item>
+
+<item >"Hind CASTEL"</item>
+<item >"Professeur"</item>
+<item >" D 407 "</item>
+<item >"64"</item>
+
+<item >"Marc CASTELLA"</item>
+<item >"Maître de Conférences"</item>
+<item >" D 205-02 "</item>
+<item >"65"</item>
+
+<item >"Philippe CASTELNAU"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    214 "</item>
+<item >"66"</item>
+
+<item >"Sebastien CAUWET"</item>
+<item >"Directeur de l'incubateur"</item>
+<item >" H    113 "</item>
+<item >"67"</item>
+
+<item >"Ana CAVALLI"</item>
+<item >"Professeur émérite"</item>
+<item >" A 209 "</item>
+<item >"68"</item>
+
+<item >"Grazia CECERE"</item>
+<item >"Professeur"</item>
+<item >" E 416 "</item>
+<item >"69"</item>
+
+<item >"Sophie CHABRIDON"</item>
+<item >"Directrice d'études"</item>
+<item >" B 305 "</item>
+<item >"70"</item>
+
+<item >"Tijani CHAHED"</item>
+<item >"Professeur"</item>
+<item >" D 406 "</item>
+<item >"71"</item>
+
+<item >"Hakima CHAOUCHI"</item>
+<item >"Professeure"</item>
+<item >" A 203-01 "</item>
+<item >"72"</item>
+
+<item >"Pierre-Antoine CHARDEL"</item>
+<item >"Professeur"</item>
+<item >" E    114 "</item>
+<item >"73"</item>
+
+<item >"Fabien CHARMET"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" A 106 "</item>
+<item >"74"</item>
+
+<item >"Lydia CHARPY"</item>
+<item >"Responsable du pôle marchés publics"</item>
+<item >" F    036 "</item>
+<item >"75"</item>
+
+<item >"Patrick CHIARENZA"</item>
+<item >"Directeur de campus service"</item>
+<item >" G    06 "</item>
+<item >"76"</item>
+
+<item >"Laure CHOTEL"</item>
+<item >"Chargée d'Enseignement-Recherche"</item>
+<item >" E 010 "</item>
+<item >"77"</item>
+
+<item >"Olfa CHOURABI"</item>
+<item >"Maître de Conférences"</item>
+<item >" F    103 "</item>
+<item >"78"</item>
+
+<item >"Emilie COHADE"</item>
+<item >"Assistante de la Direction des Formations et de la Pédagogie"</item>
+<item >" DIR    102 "</item>
+<item >"79"</item>
+
+<item >"Maryse COMBANAIRE"</item>
+<item >"Déléguée aux affaires sociales et réglementaires"</item>
+<item >" DIR    109 "</item>
+<item >"80"</item>
+
+<item >"Denis CONAN"</item>
+<item >"Maître de conférences"</item>
+<item >" D    308 "</item>
+<item >"81"</item>
+
+<item >"Guillaume COPHEIN"</item>
+<item >"Ingénieur développements"</item>
+<item >" D 06 "</item>
+<item >"82"</item>
+
+<item >"Caroline COQUET"</item>
+<item >"Gestionnaire ARH - Recrutement"</item>
+<item >" DIR    012 "</item>
+<item >"83"</item>
+
+<item >"Angel CUEVAS RUMIN"</item>
+<item >"Post-Doctorant"</item>
+<item >" D 108-01 "</item>
+<item >"84"</item>
+
+<item >"Gina CUSTOS"</item>
+<item >"Gestionnaire Administrative"</item>
+<item >" DIR 115 "</item>
+<item >"85"</item>
+
+<item >"Patricia DA-MOTA-VIEGAS"</item>
+<item >"Agent de gestion"</item>
+<item >" AMPHI    03   (FORUM  ) "</item>
+<item >"86"</item>
+
+<item >"Imane DAHHAOUI"</item>
+<item >"Chargée développement durable et responsabilité sociétale"</item>
+<item >" DIR    0501 "</item>
+<item >"87"</item>
+
+<item >"Nabyla DAIDJ"</item>
+<item >"Ingénieur d'Etudes"</item>
+<item >" F    102 "</item>
+<item >"88"</item>
+
+<item >"Tatiana DE CARVALHO BRITO"</item>
+<item >"Chargée de communication interne"</item>
+<item >" DIR    201 "</item>
+<item >"89"</item>
+
+<item >"Marie DE TORRES"</item>
+<item >"Assistante Chargée des admissions et scolarité Master Spécialisé"</item>
+<item >" DIR    109 "</item>
+<item >"90"</item>
+
+<item >"Herve DEBAR"</item>
+<item >"Directeur du département RST"</item>
+<item >" D 102-01 "</item>
+<item >"91"</item>
+
+<item >"Marie DEGLI-ESPOSTI"</item>
+<item >"Gestionnaire pôle dépenses"</item>
+<item >" F    040 "</item>
+<item >"92"</item>
+
+<item >"Sandrine DEGROOT"</item>
+<item >"Assistante &amp; Chargée de Gestion."</item>
+<item >" H    112 "</item>
+<item >"93"</item>
+
+<item >"Stephane DEHORS"</item>
+<item >"Chargé d'Enseignement (bureau des sports)"</item>
+<item >" D 01 "</item>
+<item >"94"</item>
+
+<item >"Karine DELACOURT"</item>
+<item >"Directrice de la promotion et du développement."</item>
+<item >" DIR    108 "</item>
+<item >"95"</item>
+
+<item >"Cecile DELAFONT"</item>
+<item >"Gestionnaire de la scolarité"</item>
+<item >" DIR    08 "</item>
+<item >"96"</item>
+
+<item >"Francois DESBOUVRIES"</item>
+<item >"Professeur"</item>
+<item >" D 202 "</item>
+<item >"97"</item>
+
+<item >"Maria DESSI"</item>
+<item >"Chargée d'Enseignement"</item>
+<item >" E 110 "</item>
+<item >"98"</item>
+
+<item >"Swapnil-Vilas DHAMAL"</item>
+<item >"post-doctorant"</item>
+<item >" A    106-02 "</item>
+<item >"99"</item>
+
+<item >"Jean-Michel DHEYGERS"</item>
+<item >"Agent chargé du magasin général, de l'inventaire et des archives"</item>
+<item >" G    01 "</item>
+<item >"100"</item>
+
+<item >"Joanna DHUY"</item>
+<item >"Apprentie"</item>
+<item >" DIR    211 "</item>
+<item >"101"</item>
+
+<item >"Christine DIAZ"</item>
+<item >"Responsable du service Système d'Information"</item>
+<item >" D 08 "</item>
+<item >"102"</item>
+
+<item >"Bernadette DORIZZI"</item>
+<item >"Directrice de la recherche et des formations doctorales"</item>
+<item >" DIR    219 "</item>
+<item >"103"</item>
+
+<item >"Odile DORNA"</item>
+<item >"chargée de scolarité 3ème année"</item>
+<item >" DIR 110 "</item>
+<item >"104"</item>
+
+<item >"Randal DOUC"</item>
+<item >"Professeur"</item>
+<item >" D    204 "</item>
+<item >"105"</item>
+
+<item >"Valerie DOUCET"</item>
+<item >"Responsable des admissions, inscriptions et scolarités."</item>
+<item >" DIR 111 "</item>
+<item >"106"</item>
+
+<item >"Assia DOUICH"</item>
+<item >"Apprentie"</item>
+<item >" A    08 "</item>
+<item >"107"</item>
+
+<item >"Robert DRAY"</item>
+<item >"Agent Reprographie"</item>
+<item >"  32 ,  RUE   CHARLES   FOURIER  "</item>
+<item >"108"</item>
+
+<item >"Gerard DUBEY"</item>
+<item >"Professeur"</item>
+<item >" F    120 "</item>
+<item >"109"</item>
+
+<item >"Sylvie DUMAS"</item>
+<item >"Responsable relations entreprises et stages"</item>
+<item >" A    08-03 "</item>
+<item >"110"</item>
+
+<item >"Annabella DUMAY"</item>
+<item >"Gestionnaire de la scolarité pour les enseignements de langues et sciences humaines"</item>
+<item >" E    115 "</item>
+<item >"111"</item>
+
+<item >"Virginie DUVAL"</item>
+<item >"Responsable du développement RH"</item>
+<item >" DIR    010 "</item>
+<item >"112"</item>
+
+<item >"Sam DZEVER"</item>
+<item >"Professeur"</item>
+<item >" E    412 "</item>
+<item >"113"</item>
+
+<item >"Charles EGERT"</item>
+<item >"Chargé d'Enseignement-Recherche"</item>
+<item >" E 112 "</item>
+<item >"114"</item>
+
+<item >"Mohammed EL BARBORI"</item>
+<item >"Ingénieur de Recherche et Développement"</item>
+<item >" A 107-02 "</item>
+<item >"115"</item>
+
+<item >"Mounim A. EL_YACOUBI"</item>
+<item >"Directeur d'études"</item>
+<item >" C 410 "</item>
+<item >"116"</item>
+
+<item >"Jean-Louis ERMINE"</item>
+<item >"Professeur"</item>
+<item >" E    106 "</item>
+<item >"117"</item>
+
+<item >"Isabelle ETIENNE-BUGNOT"</item>
+<item >"En charge des échanges et partenariats à l'international"</item>
+<item >" A 07 "</item>
+<item >"118"</item>
+
+<item >"Catalin FETITA"</item>
+<item >"Maître de Conférences"</item>
+<item >" C 202 "</item>
+<item >"119"</item>
+
+<item >"Patricia FIXOT"</item>
+<item >"Assistante"</item>
+<item >" A    311 "</item>
+<item >"120"</item>
+
+<item >"Fabrice FLIPO"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    111 "</item>
+<item >"121"</item>
+
+<item >"Marie-Christine FLORENTIN"</item>
+<item >"Gestionnaire de la scolarité des semestres 7 et 8"</item>
+<item >" DIR 07 "</item>
+<item >"122"</item>
+
+<item >"Marie-Christine FLORIDO"</item>
+<item >"Chargée de projets relations entreprises"</item>
+<item >" DIR    05-1 "</item>
+<item >"123"</item>
+
+<item >"Adele FLORIOT"</item>
+<item >"Chargée des admissions"</item>
+<item >" DIR    113 "</item>
+<item >"124"</item>
+
+<item >"Sylvie FRANTZ"</item>
+<item >"Responsable projets immobiliers"</item>
+<item >" BL    002 "</item>
+<item >"125"</item>
+
+<item >"Yann FRIGNAC"</item>
+<item >"Maître de Conférences"</item>
+<item >" C    306 "</item>
+<item >"126"</item>
+
+<item >"Yannick FRONDA"</item>
+<item >"Ingénieur d'Etudes"</item>
+<item >" E 212 "</item>
+<item >"127"</item>
+
+<item >"Walid GAALOUL"</item>
+<item >"Professeur"</item>
+<item >" D 303 "</item>
+<item >"128"</item>
+
+<item >"Laurent GABILLON"</item>
+<item >"Agent chargé du magasin général, Inventaire et Archives"</item>
+<item >" G    01 "</item>
+<item >"129"</item>
+
+<item >"Christophe GABORET"</item>
+<item >"Responsable du service Infrastructure Systèmes &amp; Réseaux"</item>
+<item >" B 001-01 "</item>
+<item >"130"</item>
+
+<item >"Mircea Adrian GABRIELLI"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" C    208 "</item>
+<item >"131"</item>
+
+<item >"Alda GANCARSKI"</item>
+<item >"Maître de Conférences"</item>
+<item >" B 304 "</item>
+<item >"132"</item>
+
+<item >"Eric GANGLOFF"</item>
+<item >"Directeur d'études"</item>
+<item >" D 405 "</item>
+<item >"133"</item>
+
+<item >"Ydalia GARCIA"</item>
+<item >"Assistante chargée de gestion"</item>
+<item >" A 310 "</item>
+<item >"134"</item>
+
+<item >"Sonia GARCIA"</item>
+<item >"Professeur"</item>
+<item >" C 306 "</item>
+<item >"135"</item>
+
+<item >"Joaquin GARCIA-ALFARO"</item>
+<item >"Enseignant chercheur"</item>
+<item >" D 107-02 "</item>
+<item >"136"</item>
+
+<item >"Michel GARDIE"</item>
+<item >"Conseiller Académique pour les programmes à l'international"</item>
+<item >" B    301-1 "</item>
+<item >"137"</item>
+
+<item >"Ghislaine GARMILIS"</item>
+<item >"Maître de Conférences"</item>
+<item >" E 215 "</item>
+<item >"138"</item>
+
+<item >"Vincent GAUTHIER"</item>
+<item >"Maître de Conférences"</item>
+<item >" D 401 "</item>
+<item >"139"</item>
+
+<item >"Sandra GCHWEINDER"</item>
+<item >"Assistante Recherche et Formations Doctorales"</item>
+<item >" DIR    220 "</item>
+<item >"140"</item>
+
+<item >"Nicolas GENSOLLEN"</item>
+<item >"post-doctorant"</item>
+<item >"  40 "</item>
+<item >"141"</item>
+
+<item >"Raymond GHANOTAKIS"</item>
+<item >"Ingénieur Systèmes"</item>
+<item >" B 001-02 "</item>
+<item >"142"</item>
+
+<item >"Paul GIBSON"</item>
+<item >"Maître de Conférences"</item>
+<item >" D    311 "</item>
+<item >"143"</item>
+
+<item >"Franck GILLET"</item>
+<item >"Ingénieur R&amp;D Plateforme"</item>
+<item >" B    107 "</item>
+<item >"144"</item>
+
+<item >"Marc GIROD GENET"</item>
+<item >"Maître de conférences"</item>
+<item >" A    106-01 "</item>
+<item >"145"</item>
+
+<item >"Romain GOLA"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    210 "</item>
+<item >"146"</item>
+
+<item >"Nadine GOMEZ"</item>
+<item >"Agent de Gestion"</item>
+<item >" AMPHI    04   (FORUM  ) "</item>
+<item >"147"</item>
+
+<item >"Thomas GONCALVES"</item>
+<item >"Apprenti"</item>
+<item >" A    104-02 "</item>
+<item >"148"</item>
+
+<item >"Carmen GORDON-NOGALES"</item>
+<item >"Chargée d'Enseignement-Recherche"</item>
+<item >" E    07 "</item>
+<item >"149"</item>
+
+<item >"Cedric GOSSART"</item>
+<item >"Maître de Conférences"</item>
+<item >" E 109 "</item>
+<item >"150"</item>
+
+<item >"Yaneck GOTTESMAN"</item>
+<item >"Maitre de Conférences"</item>
+<item >" B 211 "</item>
+<item >"151"</item>
+
+<item >"Clarisse GRAIGNIC"</item>
+<item >"Apprentie community manager"</item>
+<item >" DIR    105 "</item>
+<item >"152"</item>
+
+<item >"Michele GRANDJEAN"</item>
+<item >"Infirmière"</item>
+<item >" INFIR 04 "</item>
+<item >"153"</item>
+
+<item >"Paul GROSSEROHDE"</item>
+<item >"Chargé d'Enseignement"</item>
+<item >" E 111 "</item>
+<item >"154"</item>
+
+<item >"Amina GUERMOUCHE"</item>
+<item >"Maître de conférence"</item>
+<item >" D 307 "</item>
+<item >"155"</item>
+
+<item >"Claudine GUERRIER"</item>
+<item >"Professeur"</item>
+<item >" E 313 "</item>
+<item >"156"</item>
+
+<item >"Aurélien GUERSON"</item>
+<item >"Responsable de la Sécurité des Systèmes d'Information"</item>
+<item >" B 002-02 "</item>
+<item >"157"</item>
+
+<item >"Denis GUIBARD"</item>
+<item >"Directeur de Télécom Ecole de Management"</item>
+<item >" DIR 101 "</item>
+<item >"158"</item>
+
+<item >"Francoise GUIHENEUC"</item>
+<item >"Chargée des stages post-grades et Relations Entreprises Campus pour les 2 écoles"</item>
+<item >" A    08 "</item>
+<item >"159"</item>
+
+<item >"Bhumika GUPTA"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    311 "</item>
+<item >"160"</item>
+
+<item >"Charlotte GUY"</item>
+<item >"Chargée de scolarité Master of Science &amp; English Track"</item>
+<item >" DIR    110 "</item>
+<item >"161"</item>
+
+<item >"Akila HADJADJ"</item>
+<item >"Responsable du service Promotion et Admission"</item>
+<item >" DIR    212 "</item>
+<item >"162"</item>
+
+<item >"Racha HALLAL"</item>
+<item >"Ingénieure Technico-Pédagogique"</item>
+<item >" C 09 "</item>
+<item >"163"</item>
+
+<item >"Mossaab HARIZ"</item>
+<item >"Ingénieur R&amp;D Plateforme"</item>
+<item >" B    107 "</item>
+<item >"164"</item>
+
+<item >"Frederic HARMANT"</item>
+<item >"Responsable imprimerie, réception colis"</item>
+<item >"  32 ,  RUE   CHARLES   FOURIER  "</item>
+<item >"165"</item>
+
+<item >"Audrey HEINRY"</item>
+<item >"Gestionnaire RH"</item>
+<item >" DIR    012 "</item>
+<item >"166"</item>
+
+<item >"Pascal HENNEQUIN"</item>
+<item >"Maître de conférences"</item>
+<item >" B    310-1 "</item>
+<item >"167"</item>
+
+<item >"Laurence HERPIN"</item>
+<item >"Ingénieur développement"</item>
+<item >" D 06 "</item>
+<item >"168"</item>
+
+<item >"Elizabeth HINZELIN"</item>
+<item >"Chargée d'Enseignement"</item>
+<item >" E 09 "</item>
+<item >"169"</item>
+
+<item >"Mohamed HMANI"</item>
+<item >"Ingénieur de recherche"</item>
+<item >"  2039 "</item>
+<item >"170"</item>
+
+<item >"Patrick HORAIN"</item>
+<item >"Ingénieur d'études"</item>
+<item >" C 304-00 "</item>
+<item >"171"</item>
+
+<item >"Tristan HORREAUX"</item>
+<item >"Responsable des relations extérieures"</item>
+<item >" DIR    104 "</item>
+<item >"172"</item>
+
+<item >"Brigitte HOUASSINE"</item>
+<item >"Assistante"</item>
+<item >" D 302 "</item>
+<item >"173"</item>
+
+<item >"Omar HOUIDI"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" A    103 "</item>
+<item >"174"</item>
+
+<item >"Nesma HOUMANI"</item>
+<item >"Maître de conférences"</item>
+<item >" C    406 "</item>
+<item >"175"</item>
+
+<item >"Jennifer HOWARD"</item>
+<item >"Assistante commerciale"</item>
+<item >" DIR    119 "</item>
+<item >"176"</item>
+
+<item >"Marie IERARDI"</item>
+<item >"Chargée des stages TEM et du Career Center"</item>
+<item >" A 08 "</item>
+<item >"177"</item>
+
+<item >"Thierry ISCKIA"</item>
+<item >"Professeur"</item>
+<item >" E    213 "</item>
+<item >"178"</item>
+
+<item >"Jeremie JAKUBOWICZ"</item>
+<item >"Maître de conférences"</item>
+<item >" D 403-02 "</item>
+<item >"179"</item>
+
+<item >"Benoit JEAN"</item>
+<item >"Délégué aux affaires générales"</item>
+<item >" DIR    214 "</item>
+<item >"180"</item>
+
+<item >"Badii JOUABER"</item>
+<item >"Maître de conférences"</item>
+<item >" A    106-01 "</item>
+<item >"181"</item>
+
+<item >"Nesrine KAANICHE"</item>
+<item >"Ingénieure de recherche et développement"</item>
+<item >" D    105 "</item>
+<item >"182"</item>
+
+<item >"Maelle KERVAREC"</item>
+<item >"Chargée de programme EMBA"</item>
+<item >" DIR    113 "</item>
+<item >"183"</item>
+
+<item >"Haissam KHARBOUTLY"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" A    103 "</item>
+<item >"184"</item>
+
+<item >"Armen KHATCHATOUROV"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" E 114 "</item>
+<item >"185"</item>
+
+<item >"Selma KHEBBACHE"</item>
+<item >"Ingénieure de recherche"</item>
+<item >" A    109 "</item>
+<item >"186"</item>
+
+<item >"Anne-Isabelle KLING"</item>
+<item >"Responsable du Service Contrôle de Gestion"</item>
+<item >" DIR    210 "</item>
+<item >"187"</item>
+
+<item >"Charlotte KRYCHOWSKI"</item>
+<item >"Maître de Conférences"</item>
+<item >" E 311 "</item>
+<item >"188"</item>
+
+<item >"Emilie KUBAS"</item>
+<item >"Gestionnaire de la Scolarité - semestres 9 et 10 et prolongation de scolarité"</item>
+<item >" DIR    07 "</item>
+<item >"189"</item>
+
+<item >"Natalia KUSHIK"</item>
+<item >"Maître de conférences"</item>
+<item >" A    202-02 "</item>
+<item >"190"</item>
+
+<item >"Eric LALLET"</item>
+<item >"Ingénieur d'études"</item>
+<item >" D    311 "</item>
+<item >"191"</item>
+
+<item >"Roger LAMBERTI"</item>
+<item >"Maître de conférences"</item>
+<item >" D 201 "</item>
+<item >"192"</item>
+
+<item >"Laura LANDES"</item>
+<item >"Responsables des échanges internationaux et des admissions MSc"</item>
+<item >" DIR    209 "</item>
+<item >"193"</item>
+
+<item >"Matthieu LANFANT"</item>
+<item >"Technicien documentaliste"</item>
+<item >" E    310 "</item>
+<item >"194"</item>
+
+<item >"Daniel LANG"</item>
+<item >"Ingénieur d'Etudes"</item>
+<item >" F    105 "</item>
+<item >"195"</item>
+
+<item >"Mohamed Anis LAOUITI"</item>
+<item >"Maître de conférences"</item>
+<item >" A 203 "</item>
+<item >"196"</item>
+
+<item >"Katia LATAPPY"</item>
+<item >"Commerciale"</item>
+<item >" A    08-03 "</item>
+<item >"197"</item>
+
+<item >"Maryline LAURENT"</item>
+<item >"Professeur"</item>
+<item >" C    104 "</item>
+<item >"198"</item>
+
+<item >"Antoine LAVIGNOTTE"</item>
+<item >"Maître de conférences"</item>
+<item >" D    101-01 "</item>
+<item >"199"</item>
+
+<item >"Traian LAVRIC"</item>
+<item >"Ingénieur R&amp;D"</item>
+<item >" A 204 "</item>
+<item >"200"</item>
+
+<item >"Evelyne LE MAOUT"</item>
+<item >"Responsable Apprentissage"</item>
+<item >" DIR    04 "</item>
+<item >"201"</item>
+
+<item >"Magali FRANCOIS"</item>
+<item >"Secrétaire"</item>
+<item >" MAISEL  "</item>
+<item >"202"</item>
+
+<item >"Alain LEBEGUE"</item>
+<item >"Directeur d'Etudes"</item>
+<item >" C 407 "</item>
+<item >"203"</item>
+
+<item >"Claire LECOCQ"</item>
+<item >"Directeur d'études"</item>
+<item >" D    307  ET   DIR    215 "</item>
+<item >"204"</item>
+
+<item >"Julie LEGEAY"</item>
+<item >"Chargée des admissions"</item>
+<item >" DIR 115 "</item>
+<item >"205"</item>
+
+<item >"Francois LEGROS"</item>
+<item >"Responsable Qualité et Accréditations"</item>
+<item >" H    037 "</item>
+<item >"206"</item>
+
+<item >"Frederic LEHMANN"</item>
+<item >"Professeur"</item>
+<item >" D 205-01 "</item>
+<item >"207"</item>
+
+<item >"Ciara LELIEVRE DONOHOE"</item>
+<item >"Chargée de Recrutement Admissions Elèves"</item>
+<item >" DIR    212 "</item>
+<item >"208"</item>
+
+<item >"Regine LEMONTAGNER"</item>
+<item >"Chargé d'enseignement et de recherche"</item>
+<item >" B 211 "</item>
+<item >"209"</item>
+
+<item >"Catherine LEPERS"</item>
+<item >"Professeur"</item>
+<item >" B 201 "</item>
+<item >"210"</item>
+
+<item >"Nicolas LEPONT"</item>
+<item >"Apprenti"</item>
+<item >" B    001 "</item>
+<item >"211"</item>
+
+<item >"Martin LEVY"</item>
+<item >"Apprenti"</item>
+<item >" B    001 "</item>
+<item >"212"</item>
+
+<item >"Marie-Pierre LIM"</item>
+<item >"Assistante de Direction"</item>
+<item >" DIR 202 "</item>
+<item >"213"</item>
+
+<item >"Franck LOCQUET"</item>
+<item >"Ingénieur Systèmes"</item>
+<item >" B 002-02 "</item>
+<item >"214"</item>
+
+<item >"Zeinab LONDAS"</item>
+<item >"Gestionnaire de la Scolarité - semestres 5 et 6"</item>
+<item >" DIR    07 "</item>
+<item >"215"</item>
+
+<item >"Amine LOUATI"</item>
+<item >"post-doctorant"</item>
+<item >" A    205 "</item>
+<item >"216"</item>
+
+<item >"Mounia LOURDIANE"</item>
+<item >"Maître de conférences"</item>
+<item >" D 101 "</item>
+<item >"217"</item>
+
+<item >"Arnaud LUIZI"</item>
+<item >"Documentaliste"</item>
+<item >" BL 09 "</item>
+<item >"218"</item>
+
+<item >"Stephane MAAG"</item>
+<item >"Professeur"</item>
+<item >" A    208-01 "</item>
+<item >"219"</item>
+
+<item >"Samer MACHARA"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" A 102 "</item>
+<item >"220"</item>
+
+<item >"Patrick MAIGRON"</item>
+<item >"Ingénieur d'études"</item>
+<item >" D 408 "</item>
+<item >"221"</item>
+
+<item >"Katherine MAILLET"</item>
+<item >"Directrice d'Etudes"</item>
+<item >" E 113 "</item>
+<item >"222"</item>
+
+<item >"Cyril MAISSE"</item>
+<item >"Agent logistique et reprographie"</item>
+<item >"  32 ,  RUE   CHARLES   FOURIER  "</item>
+<item >"223"</item>
+
+<item >"Jennifer MALET"</item>
+<item >"Maître de Conférences"</item>
+<item >" E 215 "</item>
+<item >"224"</item>
+
+<item >"Lamia MAMLOUK"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    312 "</item>
+<item >"225"</item>
+
+<item >"Amel MAMMAR"</item>
+<item >"Maître de conférences"</item>
+<item >" B    309 "</item>
+<item >"226"</item>
+
+<item >"Marie-Helene MANAI"</item>
+<item >"Gestionnaire administrative"</item>
+<item >" DIR    115 "</item>
+<item >"227"</item>
+
+<item >"Jimmy MANCEAU"</item>
+<item >"Responsable technique adjoint"</item>
+<item >" MAISEL  "</item>
+<item >"228"</item>
+
+<item >"Laetitia MANDRET"</item>
+<item >"Directrice des Ressources Humaines"</item>
+<item >" DIR    09-01 "</item>
+<item >"229"</item>
+
+<item >"Sabine MANTE"</item>
+<item >"Chargée de gestion"</item>
+<item >" E 217 "</item>
+<item >"230"</item>
+
+<item >"Sebastien MARECHAL"</item>
+<item >"Technicien spécialisé Electricité"</item>
+<item >" D 004 "</item>
+<item >"231"</item>
+
+<item >"Chantal MARGOTTIN"</item>
+<item >"Gestionnaire pôle missions et dépenses liées aux personnels"</item>
+<item >" F    039 "</item>
+<item >"232"</item>
+
+<item >"Sumitra MARINADIN"</item>
+<item >"Adjointe au Directeur des Affaires Financières"</item>
+<item >" F    044 "</item>
+<item >"233"</item>
+
+<item >"Michel MAROT"</item>
+<item >"Professeur"</item>
+<item >" D    403-01 "</item>
+<item >"234"</item>
+
+<item >"Olivier MARTINOT"</item>
+<item >"Directeur de l'innovation et des relations entreprises"</item>
+<item >" DIR    218 "</item>
+<item >"235"</item>
+
+<item >"Abdelwaheb MARZOUKI"</item>
+<item >"Maître de conférences"</item>
+<item >" A 105-01 "</item>
+<item >"236"</item>
+
+<item >"Patrick MASOERO"</item>
+<item >"Secrétaire Général"</item>
+<item >" DIR    201 "</item>
+<item >"237"</item>
+
+<item >"Valerie MATEUS"</item>
+<item >"Assistante"</item>
+<item >" A    104 "</item>
+<item >"238"</item>
+
+<item >"Michel MAURICE-DEMOURIOUX"</item>
+<item >"Directeur d'Etudes"</item>
+<item >" F    117 "</item>
+<item >"239"</item>
+
+<item >"Patricia MBONGUE"</item>
+<item >"Assistante"</item>
+<item >" F 116 "</item>
+<item >"240"</item>
+
+<item >"Martina MC DONNELL"</item>
+<item >"Chargée d'Enseignement-Recherche"</item>
+<item >" E 109 "</item>
+<item >"241"</item>
+
+<item >"Abdallah MHAMED"</item>
+<item >"Maître de conférences"</item>
+<item >" D 404 "</item>
+<item >"242"</item>
+
+<item >"Mihai petru MITREA"</item>
+<item >"Maître de conférences"</item>
+<item >" C 201 "</item>
+<item >"243"</item>
+
+<item >"Bogdan MOCANU"</item>
+<item >"Ingénieur de recherche et développement"</item>
+<item >" A 201-02 "</item>
+<item >"244"</item>
+
+<item >"Mounir MOKHTARI"</item>
+<item >"Enseignant Chercheur"</item>
+<item >" A 105-02 "</item>
+<item >"245"</item>
+
+<item >"Antoine MOLLICONE"</item>
+<item >"Agent Logistique"</item>
+<item >" DIR    028 "</item>
+<item >"246"</item>
+
+<item >"Emmanuel MONFRINI"</item>
+<item >"Maître de conférences"</item>
+<item >" D 207 "</item>
+<item >"247"</item>
+
+<item >"Christine MONTANDON"</item>
+<item >"Assistante"</item>
+<item >" DIR 201 "</item>
+<item >"248"</item>
+
+<item >"Nicolas MONTES"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" H 316 "</item>
+<item >"249"</item>
+
+<item >"Antoine MOREAU DE BELLAING"</item>
+<item >"Développeur multimédia"</item>
+<item >" C 08 "</item>
+<item >"250"</item>
+
+<item >"Isabel-Mary MORGAN"</item>
+<item >"Assistante chargée des missions à l'international"</item>
+<item >" A 07 "</item>
+<item >"251"</item>
+
+<item >"Jean-Luc MORICEAU"</item>
+<item >"Professeur"</item>
+<item >" E 212 "</item>
+<item >"252"</item>
+
+<item >"Chantal MORLEY"</item>
+<item >"Professeur"</item>
+<item >" F    101 "</item>
+<item >"253"</item>
+
+<item >"Aymen MTIBAA"</item>
+<item >"Ingénieur de recherche"</item>
+<item >"  2039 "</item>
+<item >"254"</item>
+
+<item >"Hang NGUYEN"</item>
+<item >"Directrice d'études"</item>
+<item >" D 107 "</item>
+<item >"255"</item>
+
+<item >"Elisabeth NIGAGLIONI"</item>
+<item >"Responsable de la Vie Etudiante"</item>
+<item >" AMPHI    03   (FORUM  ) "</item>
+<item >"256"</item>
+
+<item >"Beatrice NOUAILLETAS"</item>
+<item >"Chargée de scolarité 1ère année"</item>
+<item >" DIR    110 "</item>
+<item >"257"</item>
+
+<item >"Seadna O_MAOLDOMHNAIGH"</item>
+<item >"Chargé d'Enseignement"</item>
+<item >" E    107 "</item>
+<item >"258"</item>
+
+<item >"Nathalie OHAYON"</item>
+<item >"Chargée d'Enseignement"</item>
+<item >" E    107 "</item>
+<item >"259"</item>
+
+<item >"David OUDART"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" B    311 "</item>
+<item >"260"</item>
+
+<item >"Isabelle OURABAH"</item>
+<item >"Graphiste"</item>
+<item >"  32 ,  RUE   CHARLES   FOURIER  "</item>
+<item >"261"</item>
+
+<item >"Altay Seref OZAYGEN"</item>
+<item >"Ingénieur recherche"</item>
+<item >" A    205 "</item>
+<item >"262"</item>
+
+<item >"Muge OZMAN"</item>
+<item >"Professeur"</item>
+<item >" E    417 "</item>
+<item >"263"</item>
+
+<item >"Denny PACKARD"</item>
+<item >"Chargé d'Enseignement"</item>
+<item >" E    109 "</item>
+<item >"264"</item>
+
+<item >"Graciela PADOANI"</item>
+<item >"Directrice des relations et du développement international"</item>
+<item >" A    07 "</item>
+<item >"265"</item>
+
+<item >"Dancho PANOVSKI"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" A    201-02 "</item>
+<item >"266"</item>
+
+<item >"Ursula PAPENDORFF"</item>
+<item >"Chargée d'Enseignement"</item>
+<item >" E 108 "</item>
+<item >"267"</item>
+
+<item >"Danielle PAQUIN"</item>
+<item >"Responsable pôle recettes"</item>
+<item >" F    032 "</item>
+<item >"268"</item>
+
+<item >"Christian PARROT"</item>
+<item >"Maître de conférences"</item>
+<item >" D 310 "</item>
+<item >"269"</item>
+
+<item >"Olivier PAUL"</item>
+<item >"Maître de Conférences"</item>
+<item >" C    105 "</item>
+<item >"270"</item>
+
+<item >"Eva PENINQUE"</item>
+<item >"Apprentie"</item>
+<item >" A    08 "</item>
+<item >"271"</item>
+
+<item >"Francois PEREZ"</item>
+<item >"Responsable des affaires générales"</item>
+<item >" B 003 "</item>
+<item >"272"</item>
+
+<item >"Gabriel PERIES"</item>
+<item >"Professeur"</item>
+<item >" E 106 "</item>
+<item >"273"</item>
+
+<item >"Yohan PETETIN"</item>
+<item >"Maître de conférences"</item>
+<item >" D    202-01 "</item>
+<item >"274"</item>
+
+<item >"Claire PETITMENGIN"</item>
+<item >"Professeur"</item>
+<item >" F 112 "</item>
+<item >"275"</item>
+
+<item >"Dijana PETROVSKA"</item>
+<item >"Maître de conférences"</item>
+<item >" C 406 "</item>
+<item >"276"</item>
+
+<item >"Alain PETROWSKI"</item>
+<item >"Maître de conférences"</item>
+<item >" A    207 "</item>
+<item >"277"</item>
+
+<item >"Quan PHAM-VAN"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" A    105-01 "</item>
+<item >"278"</item>
+
+<item >"Virginie PIGEAT"</item>
+<item >"Chargée de scolarité"</item>
+<item >" E    106 "</item>
+<item >"279"</item>
+
+<item >"Alexandre POLYCHRONIS"</item>
+<item >"chargé de la promotion des formations initiales"</item>
+<item >" DIR    107 "</item>
+<item >"280"</item>
+
+<item >"Bernadette PONSAR"</item>
+<item >"Assistante de gestion"</item>
+<item >"  32 ,  RUE   CHARLES   FOURIER  "</item>
+<item >"281"</item>
+
+<item >"Marius PREDA"</item>
+<item >"Maître de conférences"</item>
+<item >" C 202 "</item>
+<item >"282"</item>
+
+<item >"Jehan PROCACCIA"</item>
+<item >"Ingénieur systemes et réseaux"</item>
+<item >" B 002-02 "</item>
+<item >"283"</item>
+
+<item >"Sara RABHI"</item>
+<item >"Ingénieure de recherche"</item>
+<item >" F    121 "</item>
+<item >"284"</item>
+
+<item >"Badran RADDAOUI"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" B    303 "</item>
+<item >"285"</item>
+
+<item >"Augustin RADU"</item>
+<item >"Chargé d'affaires de l'incubateur"</item>
+<item >" H    113 "</item>
+<item >"286"</item>
+
+<item >"Carine RADZIETA"</item>
+<item >"Assistante du directeur de TEM"</item>
+<item >" DIR    102 "</item>
+<item >"287"</item>
+
+<item >"Jean-Luc RAFFY"</item>
+<item >"Directeur d'Etudes"</item>
+<item >" A 202-01 "</item>
+<item >"288"</item>
+
+<item >"Abderrahim RAMDANE"</item>
+<item >"Professeur"</item>
+<item >" B 211 "</item>
+<item >"289"</item>
+
+<item >"Daniel RANC"</item>
+<item >"Ingénieur d'études"</item>
+<item >" C    107 "</item>
+<item >"290"</item>
+
+<item >"Isabelle REBILLARD"</item>
+<item >"Responsable pôle dépenses courantes"</item>
+<item >" F    040-1 "</item>
+<item >"291"</item>
+
+<item >"Eric RENAULT"</item>
+<item >"Maître de conférences"</item>
+<item >" D 108 "</item>
+<item >"292"</item>
+
+<item >"Patricia RETROU"</item>
+<item >"Chargée de gestion"</item>
+<item >" DIR    217 "</item>
+<item >"293"</item>
+
+<item >"Sandrine RICHARD"</item>
+<item >"Coordinatrice pôle missions et dépenses liées aux personnels"</item>
+<item >" F    039-1 "</item>
+<item >"294"</item>
+
+<item >"Fabienne RODIONOFF"</item>
+<item >"Assistante développement et valorisation."</item>
+<item >" DIR    107 "</item>
+<item >"295"</item>
+
+<item >"Yohann ROGUET"</item>
+<item >"apprenti"</item>
+<item >" B    001 "</item>
+<item >"296"</item>
+
+<item >"Nicolas ROUGON"</item>
+<item >"Maître de conférences"</item>
+<item >" C 209-01 "</item>
+<item >"297"</item>
+
+<item >"Nathalie ROULLAND"</item>
+<item >"Gestionnaire pôle dépenses"</item>
+<item >" F    040 "</item>
+<item >"298"</item>
+
+<item >"Estelle ROZINE-ASSAF"</item>
+<item >"Directrice du Développement et de la Valorisation"</item>
+<item >" DIR    118 "</item>
+<item >"299"</item>
+
+<item >"Saadia RUIS"</item>
+<item >"Chargée des stages ingénieur formation initiale"</item>
+<item >" A    08 "</item>
+<item >"300"</item>
+
+<item >"Rahma SADKI"</item>
+<item >"Chargée de Recrutement Admissions Elèves"</item>
+<item >" DIR    212 "</item>
+<item >"301"</item>
+
+<item >"Linda SALAHALDIN"</item>
+<item >"Ingénieure de recherche et développement"</item>
+<item >" E    402 "</item>
+<item >"302"</item>
+
+<item >"Aline SALIERNO"</item>
+<item >"Ingénieur d'études"</item>
+<item >" DIR    103 "</item>
+<item >"303"</item>
+
+<item >"Nel SAMAMA"</item>
+<item >"Professeur"</item>
+<item >" A 302 "</item>
+<item >"304"</item>
+
+<item >"Wiem SAMOUD"</item>
+<item >"post-doctorante"</item>
+<item >" C 101-00 "</item>
+<item >"305"</item>
+
+<item >"Bulat SANDITOV"</item>
+<item >"Maître de Conférences"</item>
+<item >" E 416 "</item>
+<item >"306"</item>
+
+<item >"Karine SAUVESTRE"</item>
+<item >"Assistante"</item>
+<item >" B 002-03 "</item>
+<item >"307"</item>
+
+<item >"Veronica SCURTU"</item>
+<item >"Maître Assistante"</item>
+<item >" A    204 "</item>
+<item >"308"</item>
+
+<item >"Maud SECQUEVILLE"</item>
+<item >"Chargée de l'apprentissage"</item>
+<item >" DIR    05-01 "</item>
+<item >"309"</item>
+
+<item >"Olivier SEGARD"</item>
+<item >"Directeur du département Management, Marketing et Stratégie"</item>
+<item >" E 315 "</item>
+<item >"310"</item>
+
+<item >"Mabel SEIJAS"</item>
+<item >"Ingénieur d'Etudes"</item>
+<item >" E 110 "</item>
+<item >"311"</item>
+
+<item >"Miroslav SETKIC"</item>
+<item >"Agent d'intervention"</item>
+<item >" DIR    027 "</item>
+<item >"312"</item>
+
+<item >"Kian SHAHMAEI"</item>
+<item >"Responsable communication"</item>
+<item >" DIR    105 "</item>
+<item >"313"</item>
+
+<item >"Yasir-Saleem SHAIKH"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" D    108-02 "</item>
+<item >"314"</item>
+
+<item >"Anuragini SHIRISH"</item>
+<item >"Maître de Conférences"</item>
+<item >" F 115 "</item>
+<item >"315"</item>
+
+<item >"Michel SIMATIC"</item>
+<item >"En charge du campus numérique"</item>
+<item >" B    310-01  ET   C    09 "</item>
+<item >"316"</item>
+
+<item >"Francois SIMON"</item>
+<item >"Adjoint au directeur des formations, en charge des programmes master"</item>
+<item >" B 208 "</item>
+<item >"317"</item>
+
+<item >"Jean-Michel SIWAK"</item>
+<item >"Chargé de mission auprès du directeur de Télécom Ecole de Management"</item>
+<item >" H    036 "</item>
+<item >"318"</item>
+
+<item >"Baran SIYAHHAN"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    210 "</item>
+<item >"319"</item>
+
+<item >"Sinda SMIRANI-SMETI"</item>
+<item >"Ingénieure de recherche"</item>
+<item >" F    121 "</item>
+<item >"320"</item>
+
+<item >"Catherine SORIEUL"</item>
+<item >"Responsable formation continue et programmes qualifiants de Télécom SudParis"</item>
+<item >" DIR    02-03 "</item>
+<item >"321"</item>
+
+<item >"Oussama SOUALAH"</item>
+<item >"Ingénieur de recherche et développement"</item>
+<item >" A    103 "</item>
+<item >"322"</item>
+
+<item >"Carl STORZ"</item>
+<item >"Ingénieur d'Etudes"</item>
+<item >" E 202 "</item>
+<item >"323"</item>
+
+<item >"Xavier STRUBEL"</item>
+<item >"Directeur du département DEFI"</item>
+<item >" E 216 "</item>
+<item >"324"</item>
+
+<item >"Pierre SUTRA"</item>
+<item >"Maître de conférences"</item>
+<item >" B    302 "</item>
+<item >"325"</item>
+
+<item >"Chantal TACONET"</item>
+<item >"Maître de conférences"</item>
+<item >" B 302 "</item>
+<item >"326"</item>
+
+<item >"Thierry TAILLANDIER-LOIZE"</item>
+<item >"Chargé d'enseignement et de recherche"</item>
+<item >" C    408 "</item>
+<item >"327"</item>
+
+<item >"Noel TAILY"</item>
+<item >"Gardien"</item>
+<item >" MAISEL  "</item>
+<item >"328"</item>
+
+<item >"Ruxandra TAPU"</item>
+<item >"post-doctorante"</item>
+<item >" A    201-02 "</item>
+<item >"329"</item>
+
+<item >"Sabine TARDY"</item>
+<item >"Assistante"</item>
+<item >" DIR    217 "</item>
+<item >"330"</item>
+
+<item >"Evelyne TARONI"</item>
+<item >"Assistante Chargée de Gestion"</item>
+<item >" C 204 "</item>
+<item >"331"</item>
+
+<item >"Samir TATA"</item>
+<item >"Adjoint directeur du département informatique"</item>
+<item >" D 308 "</item>
+<item >"332"</item>
+
+<item >"Pierrette TATO"</item>
+<item >"Chargée des stages TEM et du Career Center"</item>
+<item >" A 07-01 "</item>
+<item >"333"</item>
+
+<item >"Richard TAYLOR"</item>
+<item >"Chargé d'Enseignement"</item>
+<item >" E 202 "</item>
+<item >"334"</item>
+
+<item >"Claire THIERRY"</item>
+<item >"Déléguée générale"</item>
+<item >" DIR    117 "</item>
+<item >"335"</item>
+
+<item >"Gael THOMAS"</item>
+<item >"Professeur"</item>
+<item >" D    306 "</item>
+<item >"336"</item>
+
+<item >"Laurence THOMAS"</item>
+<item >"Assistante de Direction"</item>
+<item >" DIR    202 "</item>
+<item >"337"</item>
+
+<item >"Isabelle TOUFFET"</item>
+<item >"Admissions Manager for MSc and PassWorld"</item>
+<item >" DIR 114 "</item>
+<item >"338"</item>
+
+<item >"Thierno TOUNKARA"</item>
+<item >"Maître de Conférences"</item>
+<item >" F 119 "</item>
+<item >"339"</item>
+
+<item >"Donia TRABELSI"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    210 "</item>
+<item >"340"</item>
+
+<item >"Francois TRAHAY"</item>
+<item >"Maitre de conférences"</item>
+<item >" B    301-1 "</item>
+<item >"341"</item>
+
+<item >"Christian TULVAN"</item>
+<item >"Ingénieur Recherche &amp; Développement"</item>
+<item >" C    208 "</item>
+<item >"342"</item>
+
+<item >"Marc URO"</item>
+<item >"Chargé d'enseignement et de recherche"</item>
+<item >" B 201-01 "</item>
+<item >"343"</item>
+
+<item >"Pauline VANDENHENDE"</item>
+<item >"Responsable de la promotion des formations executives"</item>
+<item >" DIR    119 "</item>
+<item >"344"</item>
+
+<item >"Sao VANG"</item>
+<item >"Chargée de scolarité des Apprentis"</item>
+<item >" DIR    110 "</item>
+<item >"345"</item>
+
+<item >"Alexandre VERVISCH-PICOIS"</item>
+<item >"Maître de conférences"</item>
+<item >" C    402 "</item>
+<item >"346"</item>
+
+<item >"Severine VIALAT"</item>
+<item >"Gestionnaire administrative"</item>
+<item >" A    07 "</item>
+<item >"347"</item>
+
+<item >"Pierre VIALLE"</item>
+<item >"Directeur d'Etudes"</item>
+<item >" E 415 "</item>
+<item >"348"</item>
+
+<item >"Claude VILLARD"</item>
+<item >"Directeur des formations"</item>
+<item >" DIR 203 "</item>
+<item >"349"</item>
+
+<item >"Jean-Francois VIOLETTE"</item>
+<item >"Directeur du développement et de la valorisation"</item>
+<item >" DIR 118 "</item>
+<item >"350"</item>
+
+<item >"Valerie VOTTE"</item>
+<item >"Gestionnaire de la Scolarité mastère et masters of science"</item>
+<item >" DIR    08 "</item>
+<item >"351"</item>
+
+<item >"Anh-Tuan VU"</item>
+<item >"Ingénieur de recherche et développement"</item>
+<item >" F    112 "</item>
+<item >"352"</item>
+
+<item >"Francoise WAUTERS"</item>
+<item >"Assistante pôle promotion et développement des formations"</item>
+<item >" DIR    104 "</item>
+<item >"353"</item>
+
+<item >"Thuok Marie YIN"</item>
+<item >"Chargée de développement des relations internationales"</item>
+<item >" DIR    205 "</item>
+<item >"354"</item>
+
+<item >"Titus ZAHARIA"</item>
+<item >"Directeur du département ARTEMIS"</item>
+<item >" C 205-01 "</item>
+<item >"355"</item>
+
+<item >"Djamal ZEGHLACHE"</item>
+<item >"Directeur du Département RS2M"</item>
+<item >" A 104-01 "</item>
+<item >"356"</item>
+
+<item >"Zahia ZENDAGUI"</item>
+<item >"Assistante gestionnaire pour le laboratoire Samovar UMR 5157 Telecom SudParis"</item>
+<item >" D 106 "</item>
+<item >"357"</item>
+
+<item >"Daqing ZHANG"</item>
+<item >"Directeur d'études"</item>
+<item >" D 402-01 "</item>
+<item >"358"</item>
+
+<item >"Jerome BOUDY"</item>
+<item >"Professeur"</item>
+<item >" C 303 "</item>
+<item >"359"</item>
+
+<item >"Frederic CURMIN"</item>
+<item >"Chef de projet - Assistance à maîtrise d'ouvrage"</item>
+<item >" D 08 "</item>
+<item >"360"</item>
+
+<item >"Bruno DEFUDE"</item>
+<item >"Directeur d'études"</item>
+<item >" DIR    221 "</item>
+<item >"361"</item>
+
+<item >"Juwendo DENIS"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" F    121 "</item>
+<item >"362"</item>
+
+<item >"Christophe DIGNE"</item>
+<item >"Directeur de Télécom SudParis"</item>
+<item >" DIR    204 "</item>
+<item >"363"</item>
+
+<item >"Christelle DONCHERY"</item>
+<item >"chargée de gestion"</item>
+<item >" E    115 "</item>
+<item >"364"</item>
+
+<item >"Roisin DONOHOE"</item>
+<item >"Directrice des Relations Internationales de Télécom SudParis"</item>
+<item >" DIR    206 "</item>
+<item >"365"</item>
+
+<item >"Florent DOUCET"</item>
+<item >"Assistant Gestion de Projets"</item>
+<item >" DIR    117 "</item>
+<item >"366"</item>
+
+<item >"Odile HERVE"</item>
+<item >"Responsable Administration Ressources Humaines (ARH)"</item>
+<item >" DIR 012 "</item>
+<item >"367"</item>
+
+<item >"Denis LESCOP"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    06 "</item>
+<item >"368"</item>
+
+<item >"Thierry TAILLANDIER-LOIZE"</item>
+<item >"Chargé d'enseignement et de recherche"</item>
+<item >" C    408 "</item>
+<item >"369"</item>
+
+<item >"Ruxandra TAPU"</item>
+<item >"post-doctorante"</item>
+<item >" A    201-02 "</item>
+<item >"370"</item>
+
+<item >"Sabine TARDY"</item>
+<item >"Assistante"</item>
+<item >" DIR    217 "</item>
+<item >"371"</item>
+
+<item >"Richard TAYLOR"</item>
+<item >"Chargé d'Enseignement"</item>
+<item >" E 202 "</item>
+<item >"372"</item>
+
+<item >"Donia TRABELSI"</item>
+<item >"Maître de Conférences"</item>
+<item >" E    210 "</item>
+<item >"373"</item>
+
+<item >"Pauline VANDENHENDE"</item>
+<item >"Responsable de la promotion des formations executives"</item>
+<item >" DIR    119 "</item>
+<item >"374"</item>
+
+<item >"Alexandre VERVISCH-PICOIS"</item>
+<item >"Maître de conférences"</item>
+<item >" C    402 "</item>
+<item >"375"</item>
+
+<item >"Claude VILLARD"</item>
+<item >"Directeur des formations"</item>
+<item >" DIR 203 "</item>
+<item >"376"</item>
+
+<item >"Djamal ZEGHLACHE"</item>
+<item >"Directeur du Département RS2M"</item>
+<item >" A 104-01 "</item>
+<item >"377"</item>
+
+<item >"Zahia ZENDAGUI"</item>
+<item >"Assistante gestionnaire pour le laboratoire Samovar UMR 5157 Telecom SudParis"</item>
+<item >" D 106 "</item>
+<item >"378"</item>
+
+<item >"Daqing ZHANG"</item>
+<item >"Directeur d'études"</item>
+<item >" D 402-01 "</item>
+<item >"379"</item>
+
+<item >"Monique BECKER"</item>
+<item >"Professeur du Département RST"</item>
+<item >" D    401 "</item>
+<item >"380"</item>
+
+<item >"Olivier BERGER"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" B 303 "</item>
+<item >"381"</item>
+
+<item >"Michel BERNE"</item>
+<item >"Directeur d'Etudes"</item>
+<item >" E    211 "</item>
+<item >"382"</item>
+
+<item >"Julie BONNET"</item>
+<item >"Chargée de Gestion"</item>
+<item >" D 203 "</item>
+<item >"383"</item>
+
+<item >"Eric BOURHIS"</item>
+<item >"Ingénieur Développement multimédia"</item>
+<item >" C 05 "</item>
+<item >"384"</item>
+
+<item >"Eric COLLERY"</item>
+<item >"Directeur Informatique et Système d'Information"</item>
+<item >" B 004 "</item>
+<item >"385"</item>
+
+<item >"Noel CRESPI"</item>
+<item >"Directeur d'Etudes"</item>
+<item >" D 107 "</item>
+<item >"386"</item>
+
+<item >"Frederic CURMIN"</item>
+<item >"Chef de projet - Assistance à maîtrise d'ouvrage"</item>
+<item >" D 08 "</item>
+<item >"387"</item>
+
+<item >"Juwendo DENIS"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" F    121 "</item>
+<item >"388"</item>
+
+<item >"Christophe DIGNE"</item>
+<item >"Directeur de Télécom SudParis"</item>
+<item >" DIR    204 "</item>
+<item >"389"</item>
+
+<item >"Christelle DONCHERY"</item>
+<item >"chargée de gestion"</item>
+<item >" E    115 "</item>
+<item >"390"</item>
+
+<item >"Joelle ELLIOT"</item>
+<item >"Responsable du Career Center et des stages"</item>
+<item >" A 07-01 "</item>
+<item >"391"</item>
+
+<item >"Olivier EPINETTE"</item>
+<item >"Directeur des Formations et de la Pédagogie"</item>
+<item >" DIR 116 "</item>
+<item >"392"</item>
+
+<item >"Christine FIXOT"</item>
+<item >"Assistante de direction"</item>
+<item >" MAISEL  "</item>
+<item >"393"</item>
+
+<item >"Veronique GUY"</item>
+<item >"Chargée de gestion recherche et formation doctorale"</item>
+<item >" DIR    220 "</item>
+<item >"394"</item>
+
+<item >"Sylvie GUYON"</item>
+<item >"Directrice des programmes Executive Education"</item>
+<item >" DIR    109 "</item>
+<item >"395"</item>
+
+<item >"Christine JOST"</item>
+<item >"Documentaliste"</item>
+<item >" BL    09-02 "</item>
+<item >"396"</item>
+
+<item >"Christophe KIENNERT"</item>
+<item >"Ingénieur de recherche et développement"</item>
+<item >" A    104-02 "</item>
+<item >"397"</item>
+
+<item >"Josephine KOHLENBERG"</item>
+<item >"Ingénieur d'études"</item>
+<item >" C    102 "</item>
+<item >"398"</item>
+
+<item >"Corinne LE ROUX"</item>
+<item >"Directrice des Ressources Documentaires"</item>
+<item >" BL 09-01 "</item>
+<item >"399"</item>
+
+<item >"Gwilherm LEBRUN"</item>
+<item >"Ingénieur Systèmes et Audiovisuel"</item>
+<item >" B 002 "</item>
+<item >"400"</item>
+
+<item >"Sylvie LEMESLE"</item>
+<item >"Assistante Commerciale à la Formation Continue de TSP et Télécom Evolution"</item>
+<item >" DIR    05-01 "</item>
+<item >"401"</item>
+
+<item >"Olivier LEROY"</item>
+<item >"Ingénieur Systèmes"</item>
+<item >" B 001 "</item>
+<item >"402"</item>
+
+<item >"Christine LETROU"</item>
+<item >"Professeur"</item>
+<item >" B 207 "</item>
+<item >"403"</item>
+
+<item >"Olivier MEULLE"</item>
+<item >"Technicien Informatique"</item>
+<item >" A    104-02 "</item>
+<item >"404"</item>
+
+<item >"Bruno MEURISSE"</item>
+<item >"Responsable programmes formation professionnelle"</item>
+<item >" DIR    210 "</item>
+<item >"405"</item>
+
+<item >"Muriel MULLER"</item>
+<item >"Maître de conférences"</item>
+<item >" A 301-0 "</item>
+<item >"406"</item>
+
+<item >"Eric NIGEON"</item>
+<item >"Agent de gestion"</item>
+<item >" G    03 "</item>
+<item >"407"</item>
+
+<item >"Wojciech PIECZYNSKI"</item>
+<item >"Directeur du département CITI"</item>
+<item >" D 205-01 "</item>
+<item >"408"</item>
+
+<item >"Sylvie PREHU"</item>
+<item >"Assistante recherche"</item>
+<item >" E 310 "</item>
+<item >"409"</item>
+
+<item >"Quentin RENOUL"</item>
+<item >"Attaché de presse"</item>
+<item >" DIR    119 "</item>
+<item >"410"</item>
+
+<item >"Pierre-Olivier ROCHER"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" C 208 "</item>
+<item >"411"</item>
+
+<item >"Veronique ROJO"</item>
+<item >"Ingénieur développement"</item>
+<item >" D 07 "</item>
+<item >"412"</item>
+
+<item >"Simone RONJON"</item>
+<item >"Chargée du bureau des carrières"</item>
+<item >" AMPHI    04-01 (FORUM  ) "</item>
+<item >"413"</item>
+
+<item >"Zheng-Shi SONG"</item>
+<item >"Chargé d'Enseignement-Recherche"</item>
+<item >" E    07 "</item>
+<item >"414"</item>
+
+<item >"Severine TROTOU"</item>
+<item >"Gestionnaire pôle recettes"</item>
+<item >" F    033 "</item>
+<item >"415"</item>
+
+<item >"Corinne TRUCHE"</item>
+<item >"Ingénieur d'études"</item>
+<item >" D 103 "</item>
+<item >"416"</item>
+
+<item >"Nicole VIZET"</item>
+<item >"Coordinatrice Erasmus"</item>
+<item >" A 07 "</item>
+<item >"417"</item>
+
+<item >"Qin ZOU"</item>
+<item >"Maitre de conférences"</item>
+<item >" B 201 "</item>
+<item >"418"</item>
+
+<item >"Joelle ELLIOT"</item>
+<item >"Responsable du Career Center et des stages"</item>
+<item >" A 07-01 "</item>
+<item >"419"</item>
+
+<item >"Olivier EPINETTE"</item>
+<item >"Directeur des Formations et de la Pédagogie"</item>
+<item >" DIR 116 "</item>
+<item >"420"</item>
+
+<item >"Christine FIXOT"</item>
+<item >"Assistante de direction"</item>
+<item >" MAISEL  "</item>
+<item >"421"</item>
+
+<item >"Veronique GUY"</item>
+<item >"Chargée de gestion recherche et formation doctorale"</item>
+<item >" DIR    220 "</item>
+<item >"422"</item>
+
+<item >"Sylvie GUYON"</item>
+<item >"Directrice des programmes Executive Education"</item>
+<item >" DIR    109 "</item>
+<item >"423"</item>
+
+<item >"Christine JOST"</item>
+<item >"Documentaliste"</item>
+<item >" BL    09-02 "</item>
+<item >"424"</item>
+
+<item >"Christophe KIENNERT"</item>
+<item >"Ingénieur de recherche et développement"</item>
+<item >" A    104-02 "</item>
+<item >"425"</item>
+
+<item >"Josephine KOHLENBERG"</item>
+<item >"Ingénieur d'études"</item>
+<item >" C    102 "</item>
+<item >"426"</item>
+
+<item >"Corinne LE ROUX"</item>
+<item >"Directrice des Ressources Documentaires"</item>
+<item >" BL 09-01 "</item>
+<item >"427"</item>
+
+<item >"Olivier LEROY"</item>
+<item >"Ingénieur Systèmes"</item>
+<item >" B 001 "</item>
+<item >"428"</item>
+
+<item >"Christine LETROU"</item>
+<item >"Professeur"</item>
+<item >" B 207 "</item>
+<item >"429"</item>
+
+<item >"Olivier MEULLE"</item>
+<item >"Technicien Informatique"</item>
+<item >" A    104-02 "</item>
+<item >"430"</item>
+
+<item >"Bruno MEURISSE"</item>
+<item >"Responsable programmes formation professionnelle"</item>
+<item >" DIR    210 "</item>
+<item >"431"</item>
+
+<item >"Jose NETO"</item>
+<item >"Maître de conférences"</item>
+<item >" D    04 "</item>
+<item >"432"</item>
+
+<item >"Eric NIGEON"</item>
+<item >"Agent de gestion"</item>
+<item >" G    03 "</item>
+<item >"433"</item>
+
+<item >"Wojciech PIECZYNSKI"</item>
+<item >"Directeur du département CITI"</item>
+<item >" D 205-01 "</item>
+<item >"434"</item>
+
+<item >"Quentin RENOUL"</item>
+<item >"Attaché de presse"</item>
+<item >" DIR    119 "</item>
+<item >"435"</item>
+
+<item >"Pierre-Olivier ROCHER"</item>
+<item >"Ingénieur de recherche"</item>
+<item >" C 208 "</item>
+<item >"436"</item>
+
+<item >"Veronique ROJO"</item>
+<item >"Ingénieur développement"</item>
+<item >" D 07 "</item>
+<item >"437"</item>
+
+<item >"Simone RONJON"</item>
+<item >"Chargée du bureau des carrières"</item>
+<item >" AMPHI    04-01 (FORUM  ) "</item>
+<item >"438"</item>
+
+<item >"Zheng-Shi SONG"</item>
+<item >"Chargé d'Enseignement-Recherche"</item>
+<item >" E    07 "</item>
+<item >"439"</item>
+
+<item >"Severine TROTOU"</item>
+<item >"Gestionnaire pôle recettes"</item>
+<item >" F    033 "</item>
+<item >"440"</item>
+
+<item >"Corinne TRUCHE"</item>
+<item >"Ingénieur d'études"</item>
+<item >" D 103 "</item>
+<item >"441"</item>
+
+<item >"Nicole VIZET"</item>
+<item >"Coordinatrice Erasmus"</item>
+<item >" A 07 "</item>
+<item >"442"</item>
+
+<item >"Robert VOYER"</item>
+<item >"Maître de Conférences"</item>
+<item >" F    107 "</item>
+<item >"443"</item>
+
+<item >"Qin ZOU"</item>
+<item >"Maitre de conférences"</item>
+<item >" B 201 "</item>
+<item >"444"</item>
+
+<item >"Veronique GUY"</item>
+<item >"Chargée de gestion recherche et formation doctorale"</item>
+<item >" DIR    220 "</item>
+<item >"445"</item>
+
+<item >"Sylvie GUYON"</item>
+<item >"Directrice des programmes Executive Education"</item>
+<item >" DIR    109 "</item>
+<item >"446"</item>
+
+<item >"Corinne LE ROUX"</item>
+<item >"Directrice des Ressources Documentaires"</item>
+<item >" BL 09-01 "</item>
+<item >"447"</item>
+
+<item >"Gwilherm LEBRUN"</item>
+<item >"Ingénieur Systèmes et Audiovisuel"</item>
+<item >" B 002 "</item>
+<item >"448"</item>
+
+<item >"Luc LECLERE"</item>
+<item >"Responsable de la formation d'ingénieur par l'apprentissage"</item>
+<item >" D    201   /  DIR 210 "</item>
+<item >"449"</item>
+
+<item >"Christine LETROU"</item>
+<item >"Professeur"</item>
+<item >" B 207 "</item>
+<item >"450"</item>
+
+<item >"Olivier MEULLE"</item>
+<item >"Technicien Informatique"</item>
+<item >" A    104-02 "</item>
+<item >"451"</item>
+
+<item >"Bruno MEURISSE"</item>
+<item >"Responsable programmes formation professionnelle"</item>
+<item >" DIR    210 "</item>
+<item >"452"</item>
+
+<item >"Muriel MULLER"</item>
+<item >"Maître de conférences"</item>
+<item >" A 301-0 "</item>
+<item >"453"</item>
+
