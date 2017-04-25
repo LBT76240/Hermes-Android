@@ -129,12 +129,17 @@ public class TabletActivity extends AppCompatActivity {
         });
 
 
+        final ImageView selectedAvatar = (ImageView) findViewById(R.id.avatar);
+        final TextView selectedNom = (TextView) findViewById(R.id.nom);
+        final TextView selectedJob = (TextView) findViewById(R.id.job);
+        final TextView selectedSalle = (TextView) findViewById(R.id.salle);
+
         final ListView listView = (ListView) findViewById(R.id.listView);
 
 
         final List<People> peoples = recupererPeople();;
 
-        final PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoples);
+        final PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoples,selectedAvatar,selectedNom,selectedJob,selectedSalle);
         listView.setAdapter(adapter);
 
 
@@ -149,7 +154,7 @@ public class TabletActivity extends AppCompatActivity {
 
                 List<People> peoplesSearch = recupererPeople(name,peoples);
 
-                PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoplesSearch);
+                PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoplesSearch,selectedAvatar,selectedNom,selectedJob,selectedSalle);
                 listView.setAdapter(adapter);
 
             }

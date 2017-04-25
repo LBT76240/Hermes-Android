@@ -10,6 +10,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.graphics.Color;
+import android.widget.Toast;
 
 import java.util.List;
 
@@ -21,8 +22,22 @@ import static trailin.myfirstapplication.R.drawable.plan;
 
 public class PeopleAdapter extends ArrayAdapter<People> {
 
-    public PeopleAdapter(Context context, List<People> peoples) {
+    private Context context = null;
+    private ImageView selectedAvatar = null;
+    private TextView selectedNom = null;
+    private TextView selectedJob = null;
+    private TextView selectedSalle = null;
+
+
+    public PeopleAdapter(Context context, List<People> peoples,ImageView selectedAvatar,TextView selectedNom, TextView selectedJob,TextView selectedSalle) {
+
+
         super(context, 0, peoples);
+        this.context=context;
+        this.selectedAvatar = selectedAvatar;
+        this.selectedNom = selectedNom;
+        this.selectedJob =selectedJob;
+        this.selectedSalle=selectedSalle;
     }
 
     @Override
@@ -48,9 +63,26 @@ public class PeopleAdapter extends ArrayAdapter<People> {
         viewHolder.job.setText(people.getJob());
         viewHolder.salle.setText(people.getSalle());
 
-        //TODO Mettre l'avatar
+
 
         viewHolder.avatar.setImageResource(people.getAvatar());
+
+        final String name = (String) viewHolder.nom.getText();
+        final String job = (String) viewHolder.job.getText();
+        final String salle = (String) viewHolder.salle.getText();
+        final Drawable avatar = viewHolder.avatar.getDrawable();
+
+
+        convertView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                selectedAvatar.setImageDrawable(avatar);
+                selectedNom.setText(name);
+                selectedJob.setText(job);
+                selectedSalle.setText(salle);
+
+            }
+        });
 
         return convertView;
     }
@@ -61,4 +93,6 @@ public class PeopleAdapter extends ArrayAdapter<People> {
         public TextView salle;
         public ImageView avatar;
     }
+
+
 }
