@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.graphics.Color;
@@ -27,9 +28,10 @@ public class PeopleAdapter extends ArrayAdapter<People> {
     private TextView selectedNom = null;
     private TextView selectedJob = null;
     private TextView selectedSalle = null;
+    private TextView selectedButton = null;
 
 
-    public PeopleAdapter(Context context, List<People> peoples,ImageView selectedAvatar,TextView selectedNom, TextView selectedJob,TextView selectedSalle) {
+    public PeopleAdapter(Context context, List<People> peoples, ImageView selectedAvatar, TextView selectedNom, TextView selectedJob, TextView selectedSalle, Button selectedButton) {
 
 
         super(context, 0, peoples);
@@ -38,6 +40,7 @@ public class PeopleAdapter extends ArrayAdapter<People> {
         this.selectedNom = selectedNom;
         this.selectedJob =selectedJob;
         this.selectedSalle=selectedSalle;
+        this.selectedButton=selectedButton;
     }
 
     @Override
@@ -80,6 +83,7 @@ public class PeopleAdapter extends ArrayAdapter<People> {
                 selectedNom.setText(name);
                 selectedJob.setText(job);
                 selectedSalle.setText(salle);
+
 
             }
         });

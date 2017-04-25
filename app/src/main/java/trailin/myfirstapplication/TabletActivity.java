@@ -133,13 +133,14 @@ public class TabletActivity extends AppCompatActivity {
         final TextView selectedNom = (TextView) findViewById(R.id.nom);
         final TextView selectedJob = (TextView) findViewById(R.id.job);
         final TextView selectedSalle = (TextView) findViewById(R.id.salle);
+        final Button selectedButton = (Button) findViewById(R.id.buttonJoin);
 
         final ListView listView = (ListView) findViewById(R.id.listView);
 
 
         final List<People> peoples = recupererPeople();;
 
-        final PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoples,selectedAvatar,selectedNom,selectedJob,selectedSalle);
+        final PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoples,selectedAvatar,selectedNom,selectedJob,selectedSalle,selectedButton);
         listView.setAdapter(adapter);
 
 
@@ -154,7 +155,7 @@ public class TabletActivity extends AppCompatActivity {
 
                 List<People> peoplesSearch = recupererPeople(name,peoples);
 
-                PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoplesSearch,selectedAvatar,selectedNom,selectedJob,selectedSalle);
+                PeopleAdapter adapter = new PeopleAdapter(TabletActivity.this, peoplesSearch,selectedAvatar,selectedNom,selectedJob,selectedSalle,selectedButton);
                 listView.setAdapter(adapter);
 
             }
@@ -168,6 +169,19 @@ public class TabletActivity extends AppCompatActivity {
 
                 editText.setText("");
                 listView.setAdapter(adapter);
+
+            }
+        });
+
+        selectedButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                if(selectedNom.getText().equals("")) {
+
+                } else {
+                    Toast.makeText(TabletActivity.this, "Go to " + selectedNom.getText(), Toast.LENGTH_SHORT).show();
+                }
 
             }
         });

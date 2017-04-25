@@ -15,6 +15,16 @@
         android:layout_alignParentEnd="true" />
 
 
+    <Button
+        android:text="Rejoindre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonJoin"
+        android:layout_marginRight="0dp"
+        android:layout_below="@+id/buttonHome"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
     <ImageView
         android:id="@+id/avatar"
         android:layout_width="50dp"
