@@ -390,8 +390,9 @@ public class TabletActivity extends Activity {
         makeText(TabletActivity.this, "Mauvaise valeur de : " + string, LENGTH_SHORT).show();
     }
 
-    //TODO APP TO ADD
+
     private TextView txtSpeechInput;
+    private TextView txtSpeechOutput;
     private ImageButton btnSpeak;
     private final int REQ_CODE_SPEECH_INPUT = 100;
 
@@ -408,6 +409,7 @@ public class TabletActivity extends Activity {
         });
 
         txtSpeechInput = (TextView) findViewById(R.id.txtSpeechInput);
+        txtSpeechOutput = (TextView) findViewById(R.id.txtSpeechOutput);
         btnSpeak = (ImageButton) findViewById(R.id.btnSpeak);
 
         // hide the action bar
@@ -456,9 +458,18 @@ public class TabletActivity extends Activity {
                     ArrayList<String> result = data
                             .getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
                     txtSpeechInput.setText(result.get(0));
+                    txtSpeechOutput.setText("");
+
+
+                    RequeteThread requeteThread = new RequeteThread(tts,txtSpeechInput,txtSpeechOutput);
+
+                    requeteThread.start();
+
+                    /*
                     String toSpeak = result.get(0);
                     String utteranceId=this.hashCode() + "";
                     tts.speak(toSpeak, TextToSpeech.QUEUE_FLUSH, null, utteranceId);
+                    */
 
                 }
                 break;
