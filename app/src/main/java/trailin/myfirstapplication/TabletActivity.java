@@ -4,6 +4,7 @@ package trailin.myfirstapplication;
 import android.app.Activity;
 import android.os.Bundle;
 
+import android.provider.ContactsContract;
 import android.speech.tts.TextToSpeech;
 
 import android.util.Log;
@@ -58,12 +59,14 @@ public class TabletActivity extends Activity {
     private TextToSpeech tts;
 
 
-    ActionThread actionThread= null;
+
     MainThread mainThread = MainThread.getInstance();
     String menu;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
 
 
         tts = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
@@ -87,7 +90,7 @@ public class TabletActivity extends Activity {
         Log.d("", "onCreate");
 
 
-        actionThread = mainThread.getActionThread();
+
 
         menu = mainThread.getMenu();
 
@@ -112,7 +115,47 @@ public class TabletActivity extends Activity {
     }
 
 
+    private void onAddContact() {
+        if(false) {
+            final List<People> peoples = recupererPeople();
 
+            for (int i = 0; i < peoples.size(); i++) {
+                // Creates a new Intent to insert a contact
+                Intent intent = new Intent(ContactsContract.Intents.Insert.ACTION);
+                // Sets the MIME type to match the Contacts Provider
+                intent.setType(ContactsContract.RawContacts.CONTENT_TYPE);
+
+        /* Assumes EditText fields in your UI contain an email address
+ * and a phone number.
+ *
+ */
+
+
+
+/*
+ * Inserts new data into the Intent. This data is passed to the
+ * contacts app's Insert screen
+ */
+// Inserts an email address
+                intent.putExtra(ContactsContract.Intents.Insert.EMAIL, "test@yolo.tem")
+/*
+ * In this example, sets the email type to be a work email.
+ * You can set other email types as necessary.
+ */
+                        .putExtra(ContactsContract.Intents.Insert.EMAIL_TYPE, ContactsContract.CommonDataKinds.Email.TYPE_WORK)
+// Inserts a phone number
+                        .putExtra(ContactsContract.Intents.Insert.PHONE, "0606060606")
+/*
+ * In this example, sets the phone type to be a work phone.
+ * You can set other phone types as necessary.
+ */
+                        .putExtra(ContactsContract.Intents.Insert.PHONE_TYPE, ContactsContract.CommonDataKinds.Phone.TYPE_WORK)
+                        .putExtra(ContactsContract.Intents.Insert.NAME, peoples.get(i).getNom());
+
+                startActivity(intent);
+            }
+        }
+    }
 
 
     private void onHome() {
@@ -126,6 +169,7 @@ public class TabletActivity extends Activity {
         Button buttonPersonne = (Button) findViewById(R.id.buttonPersonne);
         Button buttonSalle = (Button) findViewById(R.id.buttonSalle);
         Button buttonIA = (Button) findViewById(R.id.buttonIA);
+        Button buttonContact = (Button) findViewById(R.id.buttonContact);
 
         buttonCarte.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -151,7 +195,12 @@ public class TabletActivity extends Activity {
                 onIA();
             }
         });
-
+        buttonContact.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onAddContact();
+            }
+        });
     }
 
     private void onCarte() {
