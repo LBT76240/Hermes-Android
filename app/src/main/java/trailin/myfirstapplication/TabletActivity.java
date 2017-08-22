@@ -509,8 +509,9 @@ public class TabletActivity extends Activity {
                     txtSpeechInput.setText(result.get(0));
                     txtSpeechOutput.setText("");
 
-
-                    RequeteThread requeteThread = new RequeteThread(tts,txtSpeechInput,txtSpeechOutput);
+                    EditText ipEdit = (EditText) findViewById(R.id.ipEdit);
+                    String ip = ipEdit.getText().toString();
+                    RequeteThread requeteThread = new RequeteThread(tts,txtSpeechInput,txtSpeechOutput,ip);
 
                     requeteThread.start();
 

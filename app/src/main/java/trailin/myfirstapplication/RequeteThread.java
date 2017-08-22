@@ -4,6 +4,9 @@ import android.speech.tts.TextToSpeech;
 import android.util.Log;
 import android.widget.TextView;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -21,13 +24,14 @@ public class RequeteThread extends Thread {
     private TextView txtSpeechInput = null;
     private TextView txtSpeechOutput = null;
     Socket socket = null;
-    String ip = "192.168.168.100";
+    String ip;
     private DataOutputStream oos = null;
     private DataInputStream iis = null;
-    public RequeteThread(TextToSpeech tts,TextView txtSpeechInput,TextView txtSpeechOutput) {
+    public RequeteThread(TextToSpeech tts,TextView txtSpeechInput,TextView txtSpeechOutput,String ip) {
         this.tts = tts;
         this.txtSpeechInput = txtSpeechInput;
         this.txtSpeechOutput = txtSpeechOutput;
+        this.ip=ip;
     }
 
 
@@ -73,15 +77,22 @@ public class RequeteThread extends Thread {
 
         System.out.println(toSend);
 
+        JSONObject jsonObj = new JSONObject();
+
         try {
-            byte[] r = Arrays.copyOfRange(toSend.getBytes(), 0, toSend.getBytes().length);
-            int a = toSend.getBytes().length;
+            jsonObj.put("type", "question");
+            jsonObj.put("msg", toSend);
+            String msg = jsonObj.toString();
+            byte[] r = Arrays.copyOfRange(msg.getBytes(), 0, msg.getBytes().length);
+            int a = msg.getBytes().length;
             System.out.print(a);
             oos.write(r);
             oos.flush();
 
             Thread.sleep(20);
         } catch (IOException |InterruptedException e) {
+            e.printStackTrace();
+        } catch (JSONException e) {
             e.printStackTrace();
         }
     }
@@ -98,11 +109,21 @@ public class RequeteThread extends Thread {
             iis.read(r,0,1014);
 
 
+
             toRecv = new String(r);
 
-            Thread.sleep(20);
 
-            return toRecv;
+            try {
+                JSONObject jsonObj = new JSONObject(toRecv);
+                String msg = jsonObj.getString("msg");
+                Thread.sleep(20);
+
+                return msg;
+            } catch (JSONException e) {
+                return "Le server est manifestement en colère envers Json";
+            }
+
+
         } catch (IOException |InterruptedException e) {
             e.printStackTrace();
             return null;
