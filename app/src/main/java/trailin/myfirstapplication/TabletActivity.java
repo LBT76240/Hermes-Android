@@ -620,6 +620,18 @@ public class TabletActivity extends Activity {
             Log.d("", "Socket Stop");
             e.printStackTrace();
             resetThread();
+            final String error = "Le serveur n'est pas disponible";
+            String utteranceId = this.hashCode() + "";
+            tts.speak(error, TextToSpeech.QUEUE_FLUSH, null, utteranceId);
+
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    //code exécuté par l'UI thread
+                    txtSpeechOutput.setText(error);
+                }
+            });
+            eraseIAScreenThread ();
             return;
         }
     }
@@ -682,30 +694,7 @@ public class TabletActivity extends Activity {
                 if (type.equals("askConfirmation")) {
                     lastJson = jsonObj;
                 }
-                final int countErase = count;
-                new Thread(new Runnable() {
-                    @Override
-                    public void run() {
-                        try {
-                            Thread.sleep(20000L);
-                            if(countErase == count) {
-                                runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        //code exécuté par l'UI thread
-                                        lastJson = null;
-                                        txtSpeechInput.setText("");
-                                        txtSpeechOutput.setText("");
-                                    }
-                                });
-                            }
-
-                        } catch (InterruptedException e) {
-                            e.printStackTrace();
-                        }
-
-                    }
-                }).start();
+                eraseIAScreenThread ();
                 Thread.sleep(20);
 
                 return msg;
@@ -719,5 +708,32 @@ public class TabletActivity extends Activity {
             return null;
         }
 
+    }
+
+    public void eraseIAScreenThread () {
+        final int countErase = count;
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    Thread.sleep(20000L);
+                    if(countErase == count) {
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                //code exécuté par l'UI thread
+                                lastJson = null;
+                                txtSpeechInput.setText("");
+                                txtSpeechOutput.setText("");
+                            }
+                        });
+                    }
+
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+
+            }
+        }).start();
     }
 }
