@@ -18,7 +18,7 @@ import java.util.Arrays;
 /**
  * Created by lbt on 01/08/17.
  */
-
+@Deprecated
 public class RequeteThread extends Thread {
     private TextToSpeech tts = null;
     private TextView txtSpeechInput = null;
@@ -56,6 +56,7 @@ public class RequeteThread extends Thread {
                 //txtSpeechOutput.setText(toRecv);
                 String utteranceId = this.hashCode() + "";
                 tts.speak(toRecv, TextToSpeech.QUEUE_FLUSH, null, utteranceId);
+
             }
             //Fermeture socket
             oos.close();
